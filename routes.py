@@ -2,7 +2,7 @@ import os
 import pandas as pd
 from flask import Blueprint, request, jsonify, json
 from flask_jwt_extended import JWTManager, create_access_token, jwt_required, get_jwt_identity
-from .functions import GetData
+from functions import GetData
 
 current_directory = os.path.dirname(os.path.abspath(__file__))
 

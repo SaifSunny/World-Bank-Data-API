@@ -1,8 +1,13 @@
-from app import create_app
+from flask import Flask
 
-app = create_app()
+
+app = Flask(__name__)
+
+from routes import wb_blueprint
+app.register_blueprint(wb_blueprint, url_prefix='/v1/api')
+
 app.static_folder = 'static'
+    
 
-# if __name__ == '__main__':
-#     app.run(debug=True, port=5000)
-    # app.run(host="192.168.0.242", debug=True, port=8000)
+if __name__ == "__main__":
+    app.run(debug=True)
