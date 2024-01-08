@@ -1,0 +1,2060 @@
+Indicator_id,IndicatorName,category
+WBIN-0001,Agricultural raw materials exports (% of merchandise exports),AgricultureAndRuralDevelopment
+WBIN-0002,Agricultural raw materials imports (% of merchandise imports),AgricultureAndRuralDevelopment
+WBIN-0003,Rural population (% of total population),AgricultureAndRuralDevelopment
+WBIN-0004,Rural population growth (annual %),AgricultureAndRuralDevelopment
+WBIN-0005,Rural population,AgricultureAndRuralDevelopment
+WBIN-0006,Employment in agriculture (% of total employment) (modeled ILO estimate),AgricultureAndRuralDevelopment
+WBIN-0007,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",AgricultureAndRuralDevelopment
+WBIN-0008,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",AgricultureAndRuralDevelopment
+WBIN-0009,"Agriculture, forestry, and fishing, value added (% of GDP)",AgricultureAndRuralDevelopment
+WBIN-0010,"Agriculture, forestry, and fishing, value added (current US$)",AgricultureAndRuralDevelopment
+WBIN-0011,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",AgricultureAndRuralDevelopment
+WBIN-0012,Rural population living in areas where elevation is below 5 meters (% of total population),AgricultureAndRuralDevelopment
+WBIN-0013,Agricultural nitrous oxide emissions (% of total),AgricultureAndRuralDevelopment
+WBIN-0014,Agricultural nitrous oxide emissions (thousand metric tons of CO2 equivalent),AgricultureAndRuralDevelopment
+WBIN-0015,Agricultural methane emissions (% of total),AgricultureAndRuralDevelopment
+WBIN-0016,Agricultural methane emissions (thousand metric tons of CO2 equivalent),AgricultureAndRuralDevelopment
+WBIN-0017,"Access to electricity, rural (% of rural population)",AgricultureAndRuralDevelopment
+WBIN-0018,Cereal yield (kg per hectare),AgricultureAndRuralDevelopment
+WBIN-0019,Surface area (sq. km),AgricultureAndRuralDevelopment
+WBIN-0020,Livestock production index (2014-2016 = 100),AgricultureAndRuralDevelopment
+WBIN-0021,Food production index (2014-2016 = 100),AgricultureAndRuralDevelopment
+WBIN-0022,Crop production index (2014-2016 = 100),AgricultureAndRuralDevelopment
+WBIN-0023,Cereal production (metric tons),AgricultureAndRuralDevelopment
+WBIN-0024,"Agricultural machinery, tractors per 100 sq. km of arable land",AgricultureAndRuralDevelopment
+WBIN-0025,Rural land area (sq. km),AgricultureAndRuralDevelopment
+WBIN-0026,Land area (sq. km),AgricultureAndRuralDevelopment
+WBIN-0027,Average precipitation in depth (mm per year),AgricultureAndRuralDevelopment
+WBIN-0028,Agricultural irrigated land (% of total agricultural land),AgricultureAndRuralDevelopment
+WBIN-0029,Forest area (% of land area),AgricultureAndRuralDevelopment
+WBIN-0030,Forest area (sq. km),AgricultureAndRuralDevelopment
+WBIN-0031,Rural land area where elevation is below 5 meters (% of total land area),AgricultureAndRuralDevelopment
+WBIN-0032,Rural land area where elevation is below 5 meters (sq. km),AgricultureAndRuralDevelopment
+WBIN-0033,Permanent cropland (% of land area),AgricultureAndRuralDevelopment
+WBIN-0034,Land under cereal production (hectares),AgricultureAndRuralDevelopment
+WBIN-0035,Arable land (% of land area),AgricultureAndRuralDevelopment
+WBIN-0036,Arable land (hectares per person),AgricultureAndRuralDevelopment
+WBIN-0037,Arable land (hectares),AgricultureAndRuralDevelopment
+WBIN-0038,Agricultural land (% of land area),AgricultureAndRuralDevelopment
+WBIN-0039,Agricultural land (sq. km),AgricultureAndRuralDevelopment
+WBIN-0040,Fertilizer consumption (kilograms per hectare of arable land),AgricultureAndRuralDevelopment
+WBIN-0041,Fertilizer consumption (% of fertilizer production),AgricultureAndRuralDevelopment
+WBIN-0042,"Agricultural machinery, tractors",AgricultureAndRuralDevelopment
+WBIN-0043,Net migration,AidEffectiveness
+WBIN-0044,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",AidEffectiveness
+WBIN-0045,Poverty headcount ratio at $2.15 a day (2017 PPP) (% of population),AidEffectiveness
+WBIN-0046,Income share held by lowest 20%,AidEffectiveness
+WBIN-0047,"Incidence of tuberculosis (per 100,000 people)",AidEffectiveness
+WBIN-0048,"Prevalence of stunting, height for age (% of children under 5)",AidEffectiveness
+WBIN-0049,"Maternal mortality ratio (modeled estimate, per 100,000 live births)",AidEffectiveness
+WBIN-0050,Pregnant women receiving prenatal care (%),AidEffectiveness
+WBIN-0051,"Mortality rate, under-5 (per 1,000 live births)",AidEffectiveness
+WBIN-0052,"Prevalence of HIV, total (% of population ages 15-49)",AidEffectiveness
+WBIN-0053,"Primary completion rate, total (% of relevant age group)",AidEffectiveness
+WBIN-0054,"School enrollment, primary and secondary (gross), gender parity index (GPI)",AidEffectiveness
+WBIN-0055,Net ODA received (% of central government expense),AidEffectiveness
+WBIN-0056,Net ODA received per capita (current US$),AidEffectiveness
+WBIN-0057,"Net ODA received (% of imports of goods, services and primary income)",AidEffectiveness
+WBIN-0058,Net official development assistance received (constant 2020 US$),AidEffectiveness
+WBIN-0059,Net ODA received (% of GNI),AidEffectiveness
+WBIN-0060,Net ODA received (% of gross capital formation),AidEffectiveness
+WBIN-0061,Net official development assistance received (current US$),AidEffectiveness
+WBIN-0062,Net official aid received (constant 2020 US$),AidEffectiveness
+WBIN-0063,Net official aid received (current US$),AidEffectiveness
+WBIN-0064,Net official development assistance and official aid received (constant 2020 US$),AidEffectiveness
+WBIN-0065,Net official development assistance and official aid received (current US$),AidEffectiveness
+WBIN-0066,"Net official flows from UN agencies, WHO (current US$)",AidEffectiveness
+WBIN-0067,"Net official flows from UN agencies, WFP (current US$)",AidEffectiveness
+WBIN-0068,"Net official flows from UN agencies, UNWTO (current US$)",AidEffectiveness
+WBIN-0069,"Net official flows from UN agencies, UNTA (current US$)",AidEffectiveness
+WBIN-0070,"Net official flows from UN agencies, UNRWA (current US$)",AidEffectiveness
+WBIN-0071,"Net official flows from UN agencies, UNPBF (current US$)",AidEffectiveness
+WBIN-0072,"Net official flows from UN agencies, UNIDIR (current US$)",AidEffectiveness
+WBIN-0073,"Net official flows from UN agencies, UNFPA (current US$)",AidEffectiveness
+WBIN-0074,"Net official flows from UN agencies, UNEP (current US$)",AidEffectiveness
+WBIN-0075,"Net official flows from UN agencies, UNECE (current US$)",AidEffectiveness
+WBIN-0076,"Net official flows from UN agencies, UNDP (current US$)",AidEffectiveness
+WBIN-0077,"Net official flows from UN agencies, UNHCR (current US$)",AidEffectiveness
+WBIN-0078,"Net official flows from UN agencies, UNICEF (current US$)",AidEffectiveness
+WBIN-0079,"Net official flows from UN agencies, UNAIDS (current US$)",AidEffectiveness
+WBIN-0080,"Net official flows from UN agencies, ILO (current US$)",AidEffectiveness
+WBIN-0081,"Net official flows from UN agencies, IFAD (current US$)",AidEffectiveness
+WBIN-0082,"Net official flows from UN agencies, IAEA (current US$)",AidEffectiveness
+WBIN-0083,"Net official flows from UN agencies, FAO (current US$)",AidEffectiveness
+WBIN-0084,"Net bilateral aid flows from DAC donors, United States (current US$)",AidEffectiveness
+WBIN-0085,"Net bilateral aid flows from DAC donors, Total (current US$)",AidEffectiveness
+WBIN-0086,"Net bilateral aid flows from DAC donors, Sweden (current US$)",AidEffectiveness
+WBIN-0087,"Net bilateral aid flows from DAC donors, Slovenia (current US$)",AidEffectiveness
+WBIN-0088,"Net bilateral aid flows from DAC donors, Slovak Republic (current US$)",AidEffectiveness
+WBIN-0089,"Net bilateral aid flows from DAC donors, Portugal (current US$)",AidEffectiveness
+WBIN-0090,"Net bilateral aid flows from DAC donors, Poland (current US$)",AidEffectiveness
+WBIN-0091,"Net bilateral aid flows from DAC donors, New Zealand (current US$)",AidEffectiveness
+WBIN-0092,"Net bilateral aid flows from DAC donors, Norway (current US$)",AidEffectiveness
+WBIN-0093,"Net bilateral aid flows from DAC donors, Netherlands (current US$)",AidEffectiveness
+WBIN-0094,"Net bilateral aid flows from DAC donors, Luxembourg (current US$)",AidEffectiveness
+WBIN-0095,"Net bilateral aid flows from DAC donors, Korea, Rep. (current US$)",AidEffectiveness
+WBIN-0096,"Net bilateral aid flows from DAC donors, Japan (current US$)",AidEffectiveness
+WBIN-0097,"Net bilateral aid flows from DAC donors, Italy (current US$)",AidEffectiveness
+WBIN-0098,"Net bilateral aid flows from DAC donors, Iceland (current US$)",AidEffectiveness
+WBIN-0099,"Net bilateral aid flows from DAC donors, Ireland (current US$)",AidEffectiveness
+WBIN-0100,"Net bilateral aid flows from DAC donors, Hungary (current US$)",AidEffectiveness
+WBIN-0101,"Net bilateral aid flows from DAC donors, Greece (current US$)",AidEffectiveness
+WBIN-0102,"Net bilateral aid flows from DAC donors, United Kingdom (current US$)",AidEffectiveness
+WBIN-0103,"Net bilateral aid flows from DAC donors, France (current US$)",AidEffectiveness
+WBIN-0104,"Net bilateral aid flows from DAC donors, Finland (current US$)",AidEffectiveness
+WBIN-0105,"Net bilateral aid flows from DAC donors, Spain (current US$)",AidEffectiveness
+WBIN-0106,"Net bilateral aid flows from DAC donors, Denmark (current US$)",AidEffectiveness
+WBIN-0107,"Net bilateral aid flows from DAC donors, Germany (current US$)",AidEffectiveness
+WBIN-0108,"Net bilateral aid flows from DAC donors, Czech Republic (current US$)",AidEffectiveness
+WBIN-0109,"Net bilateral aid flows from DAC donors, Switzerland (current US$)",AidEffectiveness
+WBIN-0110,"Net bilateral aid flows from DAC donors, European Union institutions (current US$)",AidEffectiveness
+WBIN-0111,"Net bilateral aid flows from DAC donors, Canada (current US$)",AidEffectiveness
+WBIN-0112,"Net bilateral aid flows from DAC donors, Belgium (current US$)",AidEffectiveness
+WBIN-0113,"Net bilateral aid flows from DAC donors, Austria (current US$)",AidEffectiveness
+WBIN-0114,"Net bilateral aid flows from DAC donors, Australia (current US$)",AidEffectiveness
+WBIN-0115,"Technical cooperation grants (BoP, current US$)",AidEffectiveness
+WBIN-0116,"Grants, excluding technical cooperation (BoP, current US$)",AidEffectiveness
+WBIN-0117,Urban population (% of total population),CimateChange
+WBIN-0118,Urban population,CimateChange
+WBIN-0119,Urban population growth (annual %),CimateChange
+WBIN-0120,"Population, total",CimateChange
+WBIN-0121,Population growth (annual %),CimateChange
+WBIN-0122,Poverty headcount ratio at $2.15 a day (2017 PPP) (% of population),CimateChange
+WBIN-0123,"Prevalence of underweight, weight for age (% of children under 5)",CimateChange
+WBIN-0124,"Community health workers (per 1,000 people)",CimateChange
+WBIN-0125,"Mortality rate, under-5 (per 1,000 live births)",CimateChange
+WBIN-0126,"Primary completion rate, total (% of relevant age group)",CimateChange
+WBIN-0127,"School enrollment, primary and secondary (gross), gender parity index (GPI)",CimateChange
+WBIN-0128,"Agriculture, forestry, and fishing, value added (% of GDP)",CimateChange
+WBIN-0129,CPIA public sector management and institutions cluster average (1=low to 6=high),CimateChange
+WBIN-0130,Ease of doing business rank (1=most business-friendly regulations),CimateChange
+WBIN-0131,Terrestrial and marine protected areas (% of total territorial area),CimateChange
+WBIN-0132,Marine protected areas (% of territorial waters),CimateChange
+WBIN-0133,Terrestrial protected areas (% of total land area),CimateChange
+WBIN-0134,"Annual freshwater withdrawals, total (% of internal resources)",CimateChange
+WBIN-0135,"Annual freshwater withdrawals, total (billion cubic meters)",CimateChange
+WBIN-0136,Population in urban agglomerations of more than 1 million (% of total population),CimateChange
+WBIN-0137,Population living in areas where elevation is below 5 meters (% of total population),CimateChange
+WBIN-0138,Urban population living in areas where elevation is below 5 meters (% of total population),CimateChange
+WBIN-0139,Rural population living in areas where elevation is below 5 meters (% of total population),CimateChange
+WBIN-0140,"Droughts, floods, extreme temperatures (% of population, average 1990-2009)",CimateChange
+WBIN-0141,GHG net emissions/removals by LUCF (Mt of CO2 equivalent),CimateChange
+WBIN-0142,Disaster risk reduction progress score (1-5 scale; 5=best),CimateChange
+WBIN-0143,SF6 gas emissions (thousand metric tons of CO2 equivalent),CimateChange
+WBIN-0144,PFC gas emissions (thousand metric tons of CO2 equivalent),CimateChange
+WBIN-0145,Nitrous oxide emissions (% change from 1990),CimateChange
+WBIN-0146,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),CimateChange
+WBIN-0147,Methane emissions (% change from 1990),CimateChange
+WBIN-0148,Methane emissions (kt of CO2 equivalent),CimateChange
+WBIN-0149,HFC gas emissions (thousand metric tons of CO2 equivalent),CimateChange
+WBIN-0150,Total greenhouse gas emissions (% change from 1990),CimateChange
+WBIN-0151,Total greenhouse gas emissions (kt of CO2 equivalent),CimateChange
+WBIN-0152,Other greenhouse gas emissions (% change from 1990),CimateChange
+WBIN-0153,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",CimateChange
+WBIN-0154,CO2 emissions from solid fuel consumption (% of total),CimateChange
+WBIN-0155,CO2 emissions from solid fuel consumption (kt),CimateChange
+WBIN-0156,CO2 emissions (kg per 2017 PPP $ of GDP),CimateChange
+WBIN-0157,CO2 emissions (kg per PPP $ of GDP),CimateChange
+WBIN-0158,CO2 emissions (metric tons per capita),CimateChange
+WBIN-0159,CO2 emissions from liquid fuel consumption (% of total),CimateChange
+WBIN-0160,CO2 emissions from liquid fuel consumption (kt),CimateChange
+WBIN-0161,CO2 emissions (kt),CimateChange
+WBIN-0162,CO2 emissions (kg per 2015 US$ of GDP),CimateChange
+WBIN-0163,CO2 emissions from gaseous fuel consumption (% of total),CimateChange
+WBIN-0164,CO2 emissions from gaseous fuel consumption (kt),CimateChange
+WBIN-0165,CO2 intensity (kg per kg of oil equivalent energy use),CimateChange
+WBIN-0166,Energy use (kg of oil equivalent per capita),CimateChange
+WBIN-0167,Electric power consumption (kWh per capita),CimateChange
+WBIN-0168,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2017 PPP)",CimateChange
+WBIN-0169,Renewable energy consumption (% of total final energy consumption),CimateChange
+WBIN-0170,"Electricity production from renewable sources, excluding hydroelectric (% of total)",CimateChange
+WBIN-0171,"Electricity production from renewable sources, excluding hydroelectric (kWh)",CimateChange
+WBIN-0172,Renewable electricity output (% of total electricity output),CimateChange
+WBIN-0173,Electricity production from oil sources (% of total),CimateChange
+WBIN-0174,Electricity production from nuclear sources (% of total),CimateChange
+WBIN-0175,Electricity production from natural gas sources (% of total),CimateChange
+WBIN-0176,Electricity production from hydroelectric sources (% of total),CimateChange
+WBIN-0177,Electricity production from coal sources (% of total),CimateChange
+WBIN-0178,Access to electricity (% of population),CimateChange
+WBIN-0179,"Foreign direct investment, net inflows (% of GDP)",CimateChange
+WBIN-0180,Cereal yield (kg per hectare),CimateChange
+WBIN-0181,Average precipitation in depth (mm per year),CimateChange
+WBIN-0182,Agricultural irrigated land (% of total agricultural land),CimateChange
+WBIN-0183,Forest area (% of land area),CimateChange
+WBIN-0184,Forest area (sq. km),CimateChange
+WBIN-0185,Land area where elevation is below 5 meters (% of total land area),CimateChange
+WBIN-0186,Urban land area where elevation is below 5 meters (% of total land area),CimateChange
+WBIN-0187,Urban land area where elevation is below 5 meters (sq. km),CimateChange
+WBIN-0188,Rural land area where elevation is below 5 meters (% of total land area),CimateChange
+WBIN-0189,Rural land area where elevation is below 5 meters (sq. km),CimateChange
+WBIN-0190,Arable land (% of land area),CimateChange
+WBIN-0191,Agricultural land (% of land area),CimateChange
+WBIN-0192,Agricultural land (sq. km),CimateChange
+WBIN-0193,"PPP conversion factor, private consumption (LCU per international $)",EconomyAndGrowth
+WBIN-0194,Price level ratio of PPP conversion factor (GDP) to market exchange rate,EconomyAndGrowth
+WBIN-0195,"PPP conversion factor, GDP (LCU per international $)",EconomyAndGrowth
+WBIN-0196,DEC alternative conversion factor (LCU per US$),EconomyAndGrowth
+WBIN-0197,Terms of trade adjustment (constant LCU),EconomyAndGrowth
+WBIN-0198,Net secondary income (Net current transfers from abroad) (constant LCU),EconomyAndGrowth
+WBIN-0199,Net secondary income (Net current transfers from abroad) (current LCU),EconomyAndGrowth
+WBIN-0200,Net secondary income (Net current transfers from abroad) (current US$),EconomyAndGrowth
+WBIN-0201,Taxes less subsidies on products (constant LCU),EconomyAndGrowth
+WBIN-0202,Taxes less subsidies on products (current LCU),EconomyAndGrowth
+WBIN-0203,Taxes less subsidies on products (current US$),EconomyAndGrowth
+WBIN-0204,Net primary income (Net income from abroad) (constant LCU),EconomyAndGrowth
+WBIN-0205,Net primary income (Net income from abroad) (current LCU),EconomyAndGrowth
+WBIN-0206,Net primary income (Net income from abroad) (current US$),EconomyAndGrowth
+WBIN-0207,Gross savings (% of GDP),EconomyAndGrowth
+WBIN-0208,Gross savings (% of GNI),EconomyAndGrowth
+WBIN-0209,Gross savings (current LCU),EconomyAndGrowth
+WBIN-0210,Gross savings (current US$),EconomyAndGrowth
+WBIN-0211,"GNI per capita, PPP (constant 2017 international $)",EconomyAndGrowth
+WBIN-0212,"GNI per capita, PPP (current international $)",EconomyAndGrowth
+WBIN-0213,GNI per capita (constant LCU),EconomyAndGrowth
+WBIN-0214,GNI per capita growth (annual %),EconomyAndGrowth
+WBIN-0215,GNI per capita (constant 2015 US$),EconomyAndGrowth
+WBIN-0216,GNI per capita (current LCU),EconomyAndGrowth
+WBIN-0217,GNI per capita (current US$),EconomyAndGrowth
+WBIN-0218,"GNI, PPP (constant 2017 international $)",EconomyAndGrowth
+WBIN-0219,"GNI, PPP (current international $)",EconomyAndGrowth
+WBIN-0220,GNI (constant LCU),EconomyAndGrowth
+WBIN-0221,GNI growth (annual %),EconomyAndGrowth
+WBIN-0222,GNI (constant 2015 US$),EconomyAndGrowth
+WBIN-0223,GNI: linked series (current LCU),EconomyAndGrowth
+WBIN-0224,GNI (current LCU),EconomyAndGrowth
+WBIN-0225,GNI (current US$),EconomyAndGrowth
+WBIN-0226,"GNI, Atlas method (current US$)",EconomyAndGrowth
+WBIN-0227,Gross domestic income (constant LCU),EconomyAndGrowth
+WBIN-0228,Gross domestic savings (% of GDP),EconomyAndGrowth
+WBIN-0229,Gross domestic savings (current LCU),EconomyAndGrowth
+WBIN-0230,Gross domestic savings (current US$),EconomyAndGrowth
+WBIN-0231,"GDP per capita, PPP (constant 2017 international $)",EconomyAndGrowth
+WBIN-0232,"GDP per capita, PPP (current international $)",EconomyAndGrowth
+WBIN-0233,GDP per capita (constant LCU),EconomyAndGrowth
+WBIN-0234,GDP per capita growth (annual %),EconomyAndGrowth
+WBIN-0235,GDP per capita (constant 2015 US$),EconomyAndGrowth
+WBIN-0236,GDP per capita (current LCU),EconomyAndGrowth
+WBIN-0237,GDP per capita (current US$),EconomyAndGrowth
+WBIN-0238,"GDP, PPP (constant 2017 international $)",EconomyAndGrowth
+WBIN-0239,"GDP, PPP (current international $)",EconomyAndGrowth
+WBIN-0240,GDP (constant LCU),EconomyAndGrowth
+WBIN-0241,GDP growth (annual %),EconomyAndGrowth
+WBIN-0242,GDP (constant 2015 US$),EconomyAndGrowth
+WBIN-0243,GDP: linked series (current LCU),EconomyAndGrowth
+WBIN-0244,GDP (current LCU),EconomyAndGrowth
+WBIN-0245,GDP (current US$),EconomyAndGrowth
+WBIN-0246,Gross value added at basic prices (GVA) (constant LCU),EconomyAndGrowth
+WBIN-0247,Gross value added at basic prices (GVA) (constant 2015 US$),EconomyAndGrowth
+WBIN-0248,Gross value added at basic prices (GVA) (current LCU),EconomyAndGrowth
+WBIN-0249,Gross value added at basic prices (GVA) (current US$),EconomyAndGrowth
+WBIN-0250,Discrepancy in expenditure estimate of GDP (constant LCU),EconomyAndGrowth
+WBIN-0251,Discrepancy in expenditure estimate of GDP (current LCU),EconomyAndGrowth
+WBIN-0252,GDP deflator (base year varies by country),EconomyAndGrowth
+WBIN-0253,"Inflation, GDP deflator (annual %)",EconomyAndGrowth
+WBIN-0254,Exports as a capacity to import (constant LCU),EconomyAndGrowth
+WBIN-0255,"Adjusted net savings, excluding particulate emission damage (% of GNI)",EconomyAndGrowth
+WBIN-0256,"Adjusted net savings, excluding particulate emission damage (current US$)",EconomyAndGrowth
+WBIN-0257,"Adjusted net savings, including particulate emission damage (% of GNI)",EconomyAndGrowth
+WBIN-0258,"Adjusted net savings, including particulate emission damage (current US$)",EconomyAndGrowth
+WBIN-0259,Adjusted net national income per capita (annual % growth),EconomyAndGrowth
+WBIN-0260,Adjusted net national income per capita (constant 2015 US$),EconomyAndGrowth
+WBIN-0261,Adjusted net national income per capita (current US$),EconomyAndGrowth
+WBIN-0262,Adjusted net national income (annual % growth),EconomyAndGrowth
+WBIN-0263,Adjusted net national income (constant 2015 US$),EconomyAndGrowth
+WBIN-0264,Adjusted net national income (current US$),EconomyAndGrowth
+WBIN-0265,Adjusted savings: net national savings (% of GNI),EconomyAndGrowth
+WBIN-0266,Adjusted savings: net national savings (current US$),EconomyAndGrowth
+WBIN-0267,Adjusted savings: gross savings (% of GNI),EconomyAndGrowth
+WBIN-0268,Adjusted savings: natural resources depletion (% of GNI),EconomyAndGrowth
+WBIN-0269,Adjusted savings: particulate emission damage (% of GNI),EconomyAndGrowth
+WBIN-0270,Adjusted savings: particulate emission damage (current US$),EconomyAndGrowth
+WBIN-0271,Adjusted savings: energy depletion (% of GNI),EconomyAndGrowth
+WBIN-0272,Adjusted savings: energy depletion (current US$),EconomyAndGrowth
+WBIN-0273,Adjusted savings: mineral depletion (% of GNI),EconomyAndGrowth
+WBIN-0274,Adjusted savings: mineral depletion (current US$),EconomyAndGrowth
+WBIN-0275,Adjusted savings: consumption of fixed capital (% of GNI),EconomyAndGrowth
+WBIN-0276,Adjusted savings: consumption of fixed capital (current US$),EconomyAndGrowth
+WBIN-0277,Adjusted savings: net forest depletion (% of GNI),EconomyAndGrowth
+WBIN-0278,Adjusted savings: net forest depletion (current US$),EconomyAndGrowth
+WBIN-0279,Adjusted savings: carbon dioxide damage (% of GNI),EconomyAndGrowth
+WBIN-0280,Adjusted savings: carbon dioxide damage (current US$),EconomyAndGrowth
+WBIN-0281,Adjusted savings: education expenditure (% of GNI),EconomyAndGrowth
+WBIN-0282,Adjusted savings: education expenditure (current US$),EconomyAndGrowth
+WBIN-0283,"Services, value added (% of GDP)",EconomyAndGrowth
+WBIN-0284,"Services, value added (constant LCU)",EconomyAndGrowth
+WBIN-0285,"Services, value added (annual % growth)",EconomyAndGrowth
+WBIN-0286,"Services, value added (constant 2015 US$)",EconomyAndGrowth
+WBIN-0287,"Services, value added (current LCU)",EconomyAndGrowth
+WBIN-0288,"Services, value added (current US$)",EconomyAndGrowth
+WBIN-0289,"Services, value added per worker (constant 2015 US$)",EconomyAndGrowth
+WBIN-0290,Textiles and clothing (% of value added in manufacturing),EconomyAndGrowth
+WBIN-0291,Medium and high-tech manufacturing value added (% manufacturing value added),EconomyAndGrowth
+WBIN-0292,Other manufacturing (% of value added in manufacturing),EconomyAndGrowth
+WBIN-0293,Machinery and transport equipment (% of value added in manufacturing),EconomyAndGrowth
+WBIN-0294,"Food, beverages and tobacco (% of value added in manufacturing)",EconomyAndGrowth
+WBIN-0295,Chemicals (% of value added in manufacturing),EconomyAndGrowth
+WBIN-0296,"Industry (including construction), value added (% of GDP)",EconomyAndGrowth
+WBIN-0297,"Industry (including construction), value added (constant LCU)",EconomyAndGrowth
+WBIN-0298,"Industry (including construction), value added (annual % growth)",EconomyAndGrowth
+WBIN-0299,"Industry (including construction), value added (constant 2015 US$)",EconomyAndGrowth
+WBIN-0300,"Industry (including construction), value added (current LCU)",EconomyAndGrowth
+WBIN-0301,"Industry (including construction), value added (current US$)",EconomyAndGrowth
+WBIN-0302,"Manufacturing, value added (% of GDP)",EconomyAndGrowth
+WBIN-0303,"Manufacturing, value added (constant LCU)",EconomyAndGrowth
+WBIN-0304,"Manufacturing, value added (annual % growth)",EconomyAndGrowth
+WBIN-0305,"Manufacturing, value added (constant 2015 US$)",EconomyAndGrowth
+WBIN-0306,"Manufacturing, value added (current LCU)",EconomyAndGrowth
+WBIN-0307,"Manufacturing, value added (current US$)",EconomyAndGrowth
+WBIN-0308,"Industry (including construction), value added per worker (constant 2015 US$)",EconomyAndGrowth
+WBIN-0309,Financial intermediary services indirectly Measured (FISIM) (constant LCU),EconomyAndGrowth
+WBIN-0310,Financial intermediary services indirectly Measured (FISIM) (current LCU),EconomyAndGrowth
+WBIN-0311,"Agriculture, forestry, and fishing, value added (% of GDP)",EconomyAndGrowth
+WBIN-0312,"Agriculture, forestry, and fishing, value added (constant LCU)",EconomyAndGrowth
+WBIN-0313,"Agriculture, forestry, and fishing, value added (annual % growth)",EconomyAndGrowth
+WBIN-0314,"Agriculture, forestry, and fishing, value added (constant 2015 US$)",EconomyAndGrowth
+WBIN-0315,"Agriculture, forestry, and fishing, value added (current LCU)",EconomyAndGrowth
+WBIN-0316,"Agriculture, forestry, and fishing, value added (current US$)",EconomyAndGrowth
+WBIN-0317,"Agriculture, forestry, and fishing, value added per worker (constant 2015 US$)",EconomyAndGrowth
+WBIN-0318,Trade (% of GDP),EconomyAndGrowth
+WBIN-0319,External balance on goods and services (% of GDP),EconomyAndGrowth
+WBIN-0320,External balance on goods and services (constant LCU),EconomyAndGrowth
+WBIN-0321,External balance on goods and services (current LCU),EconomyAndGrowth
+WBIN-0322,External balance on goods and services (current US$),EconomyAndGrowth
+WBIN-0323,Imports of goods and services (% of GDP),EconomyAndGrowth
+WBIN-0324,Imports of goods and services (constant LCU),EconomyAndGrowth
+WBIN-0325,Imports of goods and services (annual % growth),EconomyAndGrowth
+WBIN-0326,Imports of goods and services (constant 2015 US$),EconomyAndGrowth
+WBIN-0327,Imports of goods and services (current LCU),EconomyAndGrowth
+WBIN-0328,Imports of goods and services (current US$),EconomyAndGrowth
+WBIN-0329,Gross capital formation (% of GDP),EconomyAndGrowth
+WBIN-0330,Gross capital formation (constant LCU),EconomyAndGrowth
+WBIN-0331,Gross capital formation (annual % growth),EconomyAndGrowth
+WBIN-0332,Gross capital formation (constant 2015 US$),EconomyAndGrowth
+WBIN-0333,Gross capital formation (current LCU),EconomyAndGrowth
+WBIN-0334,Gross capital formation (current US$),EconomyAndGrowth
+WBIN-0335,Changes in inventories (constant LCU),EconomyAndGrowth
+WBIN-0336,Changes in inventories (current LCU),EconomyAndGrowth
+WBIN-0337,Changes in inventories (current US$),EconomyAndGrowth
+WBIN-0338,Gross fixed capital formation (% of GDP),EconomyAndGrowth
+WBIN-0339,Gross fixed capital formation (constant LCU),EconomyAndGrowth
+WBIN-0340,Gross fixed capital formation (annual % growth),EconomyAndGrowth
+WBIN-0341,Gross fixed capital formation (constant 2015 US$),EconomyAndGrowth
+WBIN-0342,Gross fixed capital formation (current LCU),EconomyAndGrowth
+WBIN-0343,Gross fixed capital formation (current US$),EconomyAndGrowth
+WBIN-0344,"Gross fixed capital formation, private sector (% of GDP)",EconomyAndGrowth
+WBIN-0345,"Gross fixed capital formation, private sector (current LCU)",EconomyAndGrowth
+WBIN-0346,Exports of goods and services (% of GDP),EconomyAndGrowth
+WBIN-0347,Exports of goods and services (constant LCU),EconomyAndGrowth
+WBIN-0348,Exports of goods and services (annual % growth),EconomyAndGrowth
+WBIN-0349,Exports of goods and services (constant 2015 US$),EconomyAndGrowth
+WBIN-0350,Exports of goods and services (current LCU),EconomyAndGrowth
+WBIN-0351,Exports of goods and services (current US$),EconomyAndGrowth
+WBIN-0352,Gross national expenditure (% of GDP),EconomyAndGrowth
+WBIN-0353,Gross national expenditure (constant LCU),EconomyAndGrowth
+WBIN-0354,Gross national expenditure (constant 2015 US$),EconomyAndGrowth
+WBIN-0355,Gross national expenditure (current LCU),EconomyAndGrowth
+WBIN-0356,Gross national expenditure (current US$),EconomyAndGrowth
+WBIN-0357,Gross national expenditure deflator (base year varies by country),EconomyAndGrowth
+WBIN-0358,Final consumption expenditure (% of GDP),EconomyAndGrowth
+WBIN-0359,Final consumption expenditure (constant LCU),EconomyAndGrowth
+WBIN-0360,Final consumption expenditure (annual % growth),EconomyAndGrowth
+WBIN-0361,Final consumption expenditure (constant 2015 US$),EconomyAndGrowth
+WBIN-0362,Final consumption expenditure (current LCU),EconomyAndGrowth
+WBIN-0363,Final consumption expenditure (current US$),EconomyAndGrowth
+WBIN-0364,Households and NPISHs final consumption expenditure (% of GDP),EconomyAndGrowth
+WBIN-0365,"Households and NPISHs Final consumption expenditure, PPP (constant 2017 international $)",EconomyAndGrowth
+WBIN-0366,"Households and NPISHs Final consumption expenditure, PPP (current international $)",EconomyAndGrowth
+WBIN-0367,Households and NPISHs Final consumption expenditure per capita growth (annual %),EconomyAndGrowth
+WBIN-0368,Households and NPISHs Final consumption expenditure per capita (constant 2015 US$),EconomyAndGrowth
+WBIN-0369,Households and NPISHs Final consumption expenditure (constant LCU),EconomyAndGrowth
+WBIN-0370,Households and NPISHs Final consumption expenditure (annual % growth),EconomyAndGrowth
+WBIN-0371,Households and NPISHs Final consumption expenditure (constant 2015 US$),EconomyAndGrowth
+WBIN-0372,Households and NPISHs final consumption expenditure: linked series (current LCU),EconomyAndGrowth
+WBIN-0373,Households and NPISHs Final consumption expenditure (current LCU),EconomyAndGrowth
+WBIN-0374,Households and NPISHs Final consumption expenditure (current US$),EconomyAndGrowth
+WBIN-0375,General government final consumption expenditure (% of GDP),EconomyAndGrowth
+WBIN-0376,General government final consumption expenditure (constant LCU),EconomyAndGrowth
+WBIN-0377,General government final consumption expenditure (annual % growth),EconomyAndGrowth
+WBIN-0378,General government final consumption expenditure (constant 2015 US$),EconomyAndGrowth
+WBIN-0379,General government final consumption expenditure (current LCU),EconomyAndGrowth
+WBIN-0380,General government final consumption expenditure (current US$),EconomyAndGrowth
+WBIN-0381,Expense (% of GDP),EconomyAndGrowth
+WBIN-0382,"Revenue, excluding grants (% of GDP)",EconomyAndGrowth
+WBIN-0383,"Central government debt, total (% of GDP)",EconomyAndGrowth
+WBIN-0384,"Inflation, consumer prices (annual %)",EconomyAndGrowth
+WBIN-0385,Total reserves minus gold (current US$),EconomyAndGrowth
+WBIN-0386,"Total reserves (includes gold, current US$)",EconomyAndGrowth
+WBIN-0387,Total debt service (% of GNI),EconomyAndGrowth
+WBIN-0388,"Total debt service (% of exports of goods, services and primary income)",EconomyAndGrowth
+WBIN-0389,Net ODA received per capita (current US$),EconomyAndGrowth
+WBIN-0390,Net ODA received (% of GNI),EconomyAndGrowth
+WBIN-0391,Net official development assistance received (current US$),EconomyAndGrowth
+WBIN-0392,Present value of external debt (% of GNI),EconomyAndGrowth
+WBIN-0393,"Present value of external debt (% of exports of goods, services and primary income)",EconomyAndGrowth
+WBIN-0394,Present value of external debt (current US$),EconomyAndGrowth
+WBIN-0395,"Short-term debt (% of exports of goods, services and primary income)",EconomyAndGrowth
+WBIN-0396,Short-term debt (% of total reserves),EconomyAndGrowth
+WBIN-0397,External debt stocks (% of GNI),EconomyAndGrowth
+WBIN-0398,"External debt stocks, total (DOD, current US$)",EconomyAndGrowth
+WBIN-0399,"Personal remittances, received (% of GDP)",EconomyAndGrowth
+WBIN-0400,"Personal remittances, received (current US$)",EconomyAndGrowth
+WBIN-0401,"Personal transfers, receipts (BoP, current US$)",EconomyAndGrowth
+WBIN-0402,"Secondary income receipts (BoP, current US$)",EconomyAndGrowth
+WBIN-0403,"Portfolio equity, net inflows (BoP, current US$)",EconomyAndGrowth
+WBIN-0404,"Foreign direct investment, net inflows (% of GDP)",EconomyAndGrowth
+WBIN-0405,"Foreign direct investment, net inflows (BoP, current US$)",EconomyAndGrowth
+WBIN-0406,"Travel services (% of service exports, BoP)",EconomyAndGrowth
+WBIN-0407,"Transport services (% of service exports, BoP)",EconomyAndGrowth
+WBIN-0408,"Exports of goods, services and primary income (BoP, current US$)",EconomyAndGrowth
+WBIN-0409,"Charges for the use of intellectual property, receipts (BoP, current US$)",EconomyAndGrowth
+WBIN-0410,"Service exports (BoP, current US$)",EconomyAndGrowth
+WBIN-0411,"Goods exports (BoP, current US$)",EconomyAndGrowth
+WBIN-0412,"Insurance and financial services (% of service exports, BoP)",EconomyAndGrowth
+WBIN-0413,"Exports of goods and services (BoP, current US$)",EconomyAndGrowth
+WBIN-0414,"Primary income receipts (BoP, current US$)",EconomyAndGrowth
+WBIN-0415,"Communications, computer, etc. (% of service exports, BoP)",EconomyAndGrowth
+WBIN-0416,"ICT service exports (% of service exports, BoP)",EconomyAndGrowth
+WBIN-0417,"ICT service exports (BoP, current US$)",EconomyAndGrowth
+WBIN-0418,"Technical cooperation grants (BoP, current US$)",EconomyAndGrowth
+WBIN-0419,"Grants, excluding technical cooperation (BoP, current US$)",EconomyAndGrowth
+WBIN-0420,"Net capital account (BoP, current US$)",EconomyAndGrowth
+WBIN-0421,"Net secondary income (BoP, current US$)",EconomyAndGrowth
+WBIN-0422,"Reserves and related items (BoP, current US$)",EconomyAndGrowth
+WBIN-0423,"Portfolio investment, net (BoP, current US$)",EconomyAndGrowth
+WBIN-0424,"Foreign direct investment, net (BoP, current US$)",EconomyAndGrowth
+WBIN-0425,"Net errors and omissions (BoP, current US$)",EconomyAndGrowth
+WBIN-0426,"Net trade in goods (BoP, current US$)",EconomyAndGrowth
+WBIN-0427,"Net trade in goods and services (BoP, current US$)",EconomyAndGrowth
+WBIN-0428,"Net primary income (BoP, current US$)",EconomyAndGrowth
+WBIN-0429,"Net financial account (BoP, current US$)",EconomyAndGrowth
+WBIN-0430,Current account balance (% of GDP),EconomyAndGrowth
+WBIN-0431,"Current account balance (BoP, current US$)",EconomyAndGrowth
+WBIN-0432,"Personal remittances, paid (current US$)",EconomyAndGrowth
+WBIN-0433,"Secondary income, other sectors, payments (BoP, current US$)",EconomyAndGrowth
+WBIN-0434,"Foreign direct investment, net outflows (% of GDP)",EconomyAndGrowth
+WBIN-0435,"Foreign direct investment, net outflows (BoP, current US$)",EconomyAndGrowth
+WBIN-0436,"Travel services (% of service imports, BoP)",EconomyAndGrowth
+WBIN-0437,"Transport services (% of service imports, BoP)",EconomyAndGrowth
+WBIN-0438,"Imports of goods, services and primary income (BoP, current US$)",EconomyAndGrowth
+WBIN-0439,"Charges for the use of intellectual property, payments (BoP, current US$)",EconomyAndGrowth
+WBIN-0440,"Service imports (BoP, current US$)",EconomyAndGrowth
+WBIN-0441,"Goods imports (BoP, current US$)",EconomyAndGrowth
+WBIN-0442,"Insurance and financial services (% of service imports, BoP)",EconomyAndGrowth
+WBIN-0443,"Imports of goods and services (BoP, current US$)",EconomyAndGrowth
+WBIN-0444,"Primary income payments (BoP, current US$)",EconomyAndGrowth
+WBIN-0445,"Communications, computer, etc. (% of service imports, BoP)",EconomyAndGrowth
+WBIN-0446,Trade in services (% of GDP),EconomyAndGrowth
+WBIN-0447,Population ages 15-64 (% of total population),Education
+WBIN-0448,Population ages 0-14 (% of total population),Education
+WBIN-0449,"Unemployment, total (% of total labor force) (modeled ILO estimate)",Education
+WBIN-0450,"Unemployment, male (% of male labor force) (modeled ILO estimate)",Education
+WBIN-0451,"Unemployment, female (% of female labor force) (modeled ILO estimate)",Education
+WBIN-0452,"Labor force, total",Education
+WBIN-0453,"Labor force, female (% of total labor force)",Education
+WBIN-0454,"Probability of dying among youth ages 20-24 years (per 1,000)",Education
+WBIN-0455,"Probability of dying among adolescents ages 15-19 years (per 1,000)",Education
+WBIN-0456,"Probability of dying among adolescents ages 10-14 years (per 1,000)",Education
+WBIN-0457,"Probability of dying among children ages 5-9 years (per 1,000)",Education
+WBIN-0458,Number of deaths ages 20-24 years,Education
+WBIN-0459,Number of deaths ages 15-19 years,Education
+WBIN-0460,Number of deaths ages 10-14 years,Education
+WBIN-0461,Number of deaths ages 5-9 years,Education
+WBIN-0462,"Government expenditure on education, total (% of GDP)",Education
+WBIN-0463,"Government expenditure on education, total (% of government expenditure)",Education
+WBIN-0464,Expenditure on tertiary education (% of government expenditure on education),Education
+WBIN-0465,"Government expenditure per student, tertiary (% of GDP per capita)",Education
+WBIN-0466,Expenditure on secondary education (% of government expenditure on education),Education
+WBIN-0467,"Government expenditure per student, secondary (% of GDP per capita)",Education
+WBIN-0468,Expenditure on primary education (% of government expenditure on education),Education
+WBIN-0469,"Government expenditure per student, primary (% of GDP per capita)",Education
+WBIN-0470,"Current education expenditure, total (% of total expenditure in public institutions)",Education
+WBIN-0471,"Current education expenditure, tertiary (% of total expenditure in tertiary public institutions)",Education
+WBIN-0472,"Current education expenditure, secondary (% of total expenditure in secondary public institutions)",Education
+WBIN-0473,"Current education expenditure, primary (% of total expenditure in primary public institutions)",Education
+WBIN-0474,"Tertiary education, academic staff (% female)",Education
+WBIN-0475,"School enrollment, tertiary, male (% gross)",Education
+WBIN-0476,"School enrollment, tertiary, female (% gross)",Education
+WBIN-0477,"School enrollment, tertiary (% gross)",Education
+WBIN-0478,"Pupil-teacher ratio, tertiary",Education
+WBIN-0479,"Educational attainment, at least completed short-cycle tertiary, population 25+, total (%) (cumulative)",Education
+WBIN-0480,"Educational attainment, at least completed short-cycle tertiary, population 25+, male (%) (cumulative)",Education
+WBIN-0481,"Educational attainment, at least completed short-cycle tertiary, population 25+, female (%) (cumulative)",Education
+WBIN-0482,"Educational attainment, at least Master's or equivalent, population 25+, total (%) (cumulative)",Education
+WBIN-0483,"Educational attainment, at least Master's or equivalent, population 25+, male (%) (cumulative)",Education
+WBIN-0484,"Educational attainment, at least Master's or equivalent, population 25+, female (%) (cumulative)",Education
+WBIN-0485,"Educational attainment, Doctoral or equivalent, population 25+, total (%) (cumulative)",Education
+WBIN-0486,"Educational attainment, Doctoral or equivalent, population 25+, male (%) (cumulative)",Education
+WBIN-0487,"Educational attainment, Doctoral or equivalent, population 25+, female (%) (cumulative)",Education
+WBIN-0488,"Educational attainment, at least Bachelor's or equivalent, population 25+, total (%) (cumulative)",Education
+WBIN-0489,"Educational attainment, at least Bachelor's or equivalent, population 25+, male (%) (cumulative)",Education
+WBIN-0490,"Educational attainment, at least Bachelor's or equivalent, population 25+, female (%) (cumulative)",Education
+WBIN-0491,Adolescents out of school (% of lower secondary school age),Education
+WBIN-0492,"Adolescents out of school, male (% of male lower secondary school age)",Education
+WBIN-0493,"Adolescents out of school, female (% of female lower secondary school age)",Education
+WBIN-0494,"Secondary education, teachers (% female)",Education
+WBIN-0495,"Secondary education, teachers, female",Education
+WBIN-0496,"Secondary education, teachers",Education
+WBIN-0497,Trained teachers in secondary education (% of total teachers),Education
+WBIN-0498,Trained teachers in upper secondary education (% of total teachers),Education
+WBIN-0499,"Trained teachers in upper secondary education, male (% of male teachers)",Education
+WBIN-0500,"Trained teachers in upper secondary education, female (% of female teachers)",Education
+WBIN-0501,"Trained teachers in secondary education, male (% of male teachers)",Education
+WBIN-0502,Trained teachers in lower secondary education (% of total teachers),Education
+WBIN-0503,"Trained teachers in lower secondary education, male (% of male teachers)",Education
+WBIN-0504,"Trained teachers in lower secondary education, female (% of female teachers)",Education
+WBIN-0505,"Trained teachers in secondary education, female (% of female teachers)",Education
+WBIN-0506,Progression to secondary school (%),Education
+WBIN-0507,"Progression to secondary school, male (%)",Education
+WBIN-0508,"Progression to secondary school, female (%)",Education
+WBIN-0509,"School enrollment, secondary, private (% of total secondary)",Education
+WBIN-0510,"School enrollment, secondary, male (% net)",Education
+WBIN-0511,"School enrollment, secondary, female (% net)",Education
+WBIN-0512,"School enrollment, secondary (% net)",Education
+WBIN-0513,"School enrollment, secondary, male (% gross)",Education
+WBIN-0514,"School enrollment, secondary, female (% gross)",Education
+WBIN-0515,"School enrollment, secondary (% gross)",Education
+WBIN-0516,"Secondary education, vocational pupils (% female)",Education
+WBIN-0517,"Secondary education, vocational pupils",Education
+WBIN-0518,"Pupil-teacher ratio, upper secondary",Education
+WBIN-0519,"Pupil-teacher ratio, secondary",Education
+WBIN-0520,"Pupil-teacher ratio, lower secondary",Education
+WBIN-0521,"Secondary education, general pupils (% female)",Education
+WBIN-0522,"Secondary education, general pupils",Education
+WBIN-0523,"Secondary education, pupils (% female)",Education
+WBIN-0524,"Secondary education, pupils",Education
+WBIN-0525,"Secondary education, duration (years)",Education
+WBIN-0526,"Educational attainment, at least completed upper secondary, population 25+, total (%) (cumulative)",Education
+WBIN-0527,"Educational attainment, at least completed upper secondary, population 25+, male (%) (cumulative)",Education
+WBIN-0528,"Educational attainment, at least completed upper secondary, population 25+, female (%) (cumulative)",Education
+WBIN-0529,"Educational attainment, at least completed post-secondary, population 25+, total (%) (cumulative)",Education
+WBIN-0530,"Educational attainment, at least completed post-secondary, population 25+, male (%) (cumulative)",Education
+WBIN-0531,"Educational attainment, at least completed post-secondary, population 25+, female (%) (cumulative)",Education
+WBIN-0532,"Educational attainment, at least completed lower secondary, population 25+, total (%) (cumulative)",Education
+WBIN-0533,"Educational attainment, at least completed lower secondary, population 25+, male (%) (cumulative)",Education
+WBIN-0534,"Educational attainment, at least completed lower secondary, population 25+, female (%) (cumulative)",Education
+WBIN-0535,"Lower secondary completion rate, total (% of relevant age group)",Education
+WBIN-0536,"Lower secondary completion rate, male (% of relevant age group)",Education
+WBIN-0537,"Lower secondary completion rate, female (% of relevant age group)",Education
+WBIN-0538,Lower secondary school starting age (years),Education
+WBIN-0539,Children out of school (% of primary school age),Education
+WBIN-0540,"Children out of school, male (% of male primary school age)",Education
+WBIN-0541,"Children out of school, primary, male",Education
+WBIN-0542,"Children out of school, female (% of female primary school age)",Education
+WBIN-0543,"Children out of school, primary, female",Education
+WBIN-0544,"Children out of school, primary",Education
+WBIN-0545,"Adjusted net enrollment rate, primary, male (% of primary school age children)",Education
+WBIN-0546,"Adjusted net enrollment rate, primary, female (% of primary school age children)",Education
+WBIN-0547,"Adjusted net enrollment rate, primary (% of primary school age children)",Education
+WBIN-0548,"Primary education, teachers (% female)",Education
+WBIN-0549,"Primary education, teachers",Education
+WBIN-0550,Trained teachers in primary education (% of total teachers),Education
+WBIN-0551,"Trained teachers in primary education, male (% of male teachers)",Education
+WBIN-0552,"Trained teachers in primary education, female (% of female teachers)",Education
+WBIN-0553,"Repeaters, primary, total (% of total enrollment)",Education
+WBIN-0554,"Repeaters, primary, male (% of male enrollment)",Education
+WBIN-0555,"Repeaters, primary, female (% of female enrollment)",Education
+WBIN-0556,"Persistence to last grade of primary, total (% of cohort)",Education
+WBIN-0557,"Persistence to last grade of primary, male (% of cohort)",Education
+WBIN-0558,"Persistence to last grade of primary, female (% of cohort)",Education
+WBIN-0559,"Persistence to grade 5, total (% of cohort)",Education
+WBIN-0560,"Persistence to grade 5, male (% of cohort)",Education
+WBIN-0561,"Persistence to grade 5, female (% of cohort)",Education
+WBIN-0562,"School enrollment, primary, private (% of total primary)",Education
+WBIN-0563,"Over-age students, primary (% of enrollment)",Education
+WBIN-0564,"Over-age students, primary, male (% of male enrollment)",Education
+WBIN-0565,"Over-age students, primary, female (% of female enrollment)",Education
+WBIN-0566,Net intake rate in grade 1 (% of official school-age population),Education
+WBIN-0567,"Net intake rate in grade 1, male (% of official school-age population)",Education
+WBIN-0568,"Net intake rate in grade 1, female (% of official school-age population)",Education
+WBIN-0569,"School enrollment, primary, male (% net)",Education
+WBIN-0570,"School enrollment, primary, female (% net)",Education
+WBIN-0571,"School enrollment, primary (% net)",Education
+WBIN-0572,"Gross intake ratio in first grade of primary education, total (% of relevant age group)",Education
+WBIN-0573,"Gross intake ratio in first grade of primary education, male (% of relevant age group)",Education
+WBIN-0574,"Gross intake ratio in first grade of primary education, female (% of relevant age group)",Education
+WBIN-0575,"School enrollment, primary, male (% gross)",Education
+WBIN-0576,"School enrollment, primary, female (% gross)",Education
+WBIN-0577,"School enrollment, primary (% gross)",Education
+WBIN-0578,"Pupil-teacher ratio, primary",Education
+WBIN-0579,"Primary education, pupils (% female)",Education
+WBIN-0580,"Primary education, pupils",Education
+WBIN-0581,"Primary education, duration (years)",Education
+WBIN-0582,"Educational attainment, at least completed primary, population 25+ years, total (%) (cumulative)",Education
+WBIN-0583,"Educational attainment, at least completed primary, population 25+ years, male (%) (cumulative)",Education
+WBIN-0584,"Educational attainment, at least completed primary, population 25+ years, female (%) (cumulative)",Education
+WBIN-0585,"Primary completion rate, total (% of relevant age group)",Education
+WBIN-0586,"Primary completion rate, male (% of relevant age group)",Education
+WBIN-0587,"Primary completion rate, female (% of relevant age group)",Education
+WBIN-0588,Primary school starting age (years),Education
+WBIN-0589,Trained teachers in preprimary education (% of total teachers),Education
+WBIN-0590,"Trained teachers in preprimary education, male (% of male teachers)",Education
+WBIN-0591,"Trained teachers in preprimary education, female (% of female teachers)",Education
+WBIN-0592,"School enrollment, preprimary, male (% gross)",Education
+WBIN-0593,"School enrollment, preprimary, female (% gross)",Education
+WBIN-0594,"School enrollment, preprimary (% gross)",Education
+WBIN-0595,"Pupil-teacher ratio, preprimary",Education
+WBIN-0596,"Preprimary education, duration (years)",Education
+WBIN-0597,"School enrollment, tertiary (gross), gender parity index (GPI)",Education
+WBIN-0598,"School enrollment, secondary (gross), gender parity index (GPI)",Education
+WBIN-0599,"School enrollment, primary and secondary (gross), gender parity index (GPI)",Education
+WBIN-0600,"School enrollment, primary (gross), gender parity index (GPI)",Education
+WBIN-0601,"Compulsory education, duration (years)",Education
+WBIN-0602,"Literacy rate, adult total (% of people ages 15 and above)",Education
+WBIN-0603,"Literacy rate, adult male (% of males ages 15 and above)",Education
+WBIN-0604,"Literacy rate, adult female (% of females ages 15 and above)",Education
+WBIN-0605,"Literacy rate, youth total (% of people ages 15-24)",Education
+WBIN-0606,"Literacy rate, youth male (% of males ages 15-24)",Education
+WBIN-0607,"Literacy rate, youth (ages 15-24), gender parity index (GPI)",Education
+WBIN-0608,"Literacy rate, youth female (% of females ages 15-24)",Education
+WBIN-0609,Ores and metals exports (% of merchandise exports),EnergyAndMining
+WBIN-0610,Fuel exports (% of merchandise exports),EnergyAndMining
+WBIN-0611,Ores and metals imports (% of merchandise imports),EnergyAndMining
+WBIN-0612,Fuel imports (% of merchandise imports),EnergyAndMining
+WBIN-0613,Total natural resources rents (% of GDP),EnergyAndMining
+WBIN-0614,Oil rents (% of GDP),EnergyAndMining
+WBIN-0615,Natural gas rents (% of GDP),EnergyAndMining
+WBIN-0616,Mineral rents (% of GDP),EnergyAndMining
+WBIN-0617,Adjusted savings: natural resources depletion (% of GNI),EnergyAndMining
+WBIN-0618,Adjusted savings: energy depletion (% of GNI),EnergyAndMining
+WBIN-0619,Adjusted savings: energy depletion (current US$),EnergyAndMining
+WBIN-0620,Adjusted savings: mineral depletion (% of GNI),EnergyAndMining
+WBIN-0621,Adjusted savings: mineral depletion (current US$),EnergyAndMining
+WBIN-0622,Investment in energy with private participation (current US$),EnergyAndMining
+WBIN-0623,Value lost due to electrical outages (% of sales for affected firms),EnergyAndMining
+WBIN-0624,Firms using banks to finance investment (% of firms),EnergyAndMining
+WBIN-0625,Time required to get electricity (days),EnergyAndMining
+WBIN-0626,Time to obtain an electrical connection (days),EnergyAndMining
+WBIN-0627,Pump price for gasoline (US$ per liter),EnergyAndMining
+WBIN-0628,Pump price for diesel fuel (US$ per liter),EnergyAndMining
+WBIN-0629,Nitrous oxide emissions in energy sector (% of total),EnergyAndMining
+WBIN-0630,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EnergyAndMining
+WBIN-0631,Energy related methane emissions (% of total),EnergyAndMining
+WBIN-0632,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EnergyAndMining
+WBIN-0633,CO2 emissions from liquid fuel consumption (kt),EnergyAndMining
+WBIN-0634,CO2 emissions from gaseous fuel consumption (% of total),EnergyAndMining
+WBIN-0635,Energy use (kg of oil equivalent per capita),EnergyAndMining
+WBIN-0636,Electric power consumption (kWh per capita),EnergyAndMining
+WBIN-0637,Combustible renewables and waste (% of total energy),EnergyAndMining
+WBIN-0638,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2017 PPP)",EnergyAndMining
+WBIN-0639,Fossil fuel energy consumption (% of total),EnergyAndMining
+WBIN-0640,Alternative and nuclear energy (% of total energy use),EnergyAndMining
+WBIN-0641,"Energy imports, net (% of energy use)",EnergyAndMining
+WBIN-0642,GDP per unit of energy use (constant 2017 PPP $ per kg of oil equivalent),EnergyAndMining
+WBIN-0643,GDP per unit of energy use (PPP $ per kg of oil equivalent),EnergyAndMining
+WBIN-0644,Renewable energy consumption (% of total final energy consumption),EnergyAndMining
+WBIN-0645,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EnergyAndMining
+WBIN-0646,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EnergyAndMining
+WBIN-0647,Renewable electricity output (% of total electricity output),EnergyAndMining
+WBIN-0648,Electricity production from oil sources (% of total),EnergyAndMining
+WBIN-0649,Electricity production from nuclear sources (% of total),EnergyAndMining
+WBIN-0650,Electricity production from natural gas sources (% of total),EnergyAndMining
+WBIN-0651,Electric power transmission and distribution losses (% of output),EnergyAndMining
+WBIN-0652,Electricity production from hydroelectric sources (% of total),EnergyAndMining
+WBIN-0653,"Electricity production from oil, gas and coal sources (% of total)",EnergyAndMining
+WBIN-0654,Electricity production from coal sources (% of total),EnergyAndMining
+WBIN-0655,Access to electricity (% of population),EnergyAndMining
+WBIN-0656,"Access to electricity, urban (% of urban population)",EnergyAndMining
+WBIN-0657,"Access to electricity, rural (% of rural population)",EnergyAndMining
+WBIN-0658,Energy intensity level of primary energy (MJ/$2017 PPP GDP),EnergyAndMining
+WBIN-0659,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene (per 100,000 population)",Environment
+WBIN-0660,People using safely managed sanitation services (% of population),Environment
+WBIN-0661,"People using safely managed sanitation services, urban (% of urban population)",Environment
+WBIN-0662,"People using safely managed sanitation services, rural (% of rural population)",Environment
+WBIN-0663,"Mortality rate attributed to unintentional poisoning, male (per 100,000 male population)",Environment
+WBIN-0664,"Mortality rate attributed to unintentional poisoning, female (per 100,000 female population)",Environment
+WBIN-0665,"Mortality rate attributed to unintentional poisoning (per 100,000 population)",Environment
+WBIN-0666,People practicing open defecation (% of population),Environment
+WBIN-0667,"People practicing open defecation, urban (% of urban population)",Environment
+WBIN-0668,"People practicing open defecation, rural (% of rural population)",Environment
+WBIN-0669,People with basic handwashing facilities including soap and water (% of population),Environment
+WBIN-0670,"People with basic handwashing facilities including soap and water, urban (% of urban population)",Environment
+WBIN-0671,"People with basic handwashing facilities including soap and water, rural (% of rural population)",Environment
+WBIN-0672,People using at least basic sanitation services (% of population),Environment
+WBIN-0673,"People using at least basic sanitation services, urban (% of urban population)",Environment
+WBIN-0674,"People using at least basic sanitation services, rural (% of rural population)",Environment
+WBIN-0675,"Mortality rate attributed to household and ambient air pollution, age-standardized (per 100,000 population)",Environment
+WBIN-0676,People using safely managed drinking water services (% of population),Environment
+WBIN-0677,"People using safely managed drinking water services, urban (% of urban population)",Environment
+WBIN-0678,"People using safely managed drinking water services, rural (% of rural population)",Environment
+WBIN-0679,People using at least basic drinking water services (% of population),Environment
+WBIN-0680,"People using at least basic drinking water services, urban (% of urban population)",Environment
+WBIN-0681,"People using at least basic drinking water services, rural (% of rural population)",Environment
+WBIN-0682,Total natural resources rents (% of GDP),Environment
+WBIN-0683,Oil rents (% of GDP),Environment
+WBIN-0684,Natural gas rents (% of GDP),Environment
+WBIN-0685,Mineral rents (% of GDP),Environment
+WBIN-0686,Forest rents (% of GDP),Environment
+WBIN-0687,Coal rents (% of GDP),Environment
+WBIN-0688,"Adjusted net savings, excluding particulate emission damage (% of GNI)",Environment
+WBIN-0689,"Adjusted net savings, excluding particulate emission damage (current US$)",Environment
+WBIN-0690,"Adjusted net savings, including particulate emission damage (% of GNI)",Environment
+WBIN-0691,"Adjusted net savings, including particulate emission damage (current US$)",Environment
+WBIN-0692,Adjusted savings: net national savings (% of GNI),Environment
+WBIN-0693,Adjusted savings: net national savings (current US$),Environment
+WBIN-0694,Adjusted savings: gross savings (% of GNI),Environment
+WBIN-0695,Adjusted savings: particulate emission damage (% of GNI),Environment
+WBIN-0696,Adjusted savings: particulate emission damage (current US$),Environment
+WBIN-0697,Adjusted savings: energy depletion (% of GNI),Environment
+WBIN-0698,Adjusted savings: energy depletion (current US$),Environment
+WBIN-0699,Adjusted savings: mineral depletion (% of GNI),Environment
+WBIN-0700,Adjusted savings: mineral depletion (current US$),Environment
+WBIN-0701,Adjusted savings: consumption of fixed capital (% of GNI),Environment
+WBIN-0702,Adjusted savings: consumption of fixed capital (current US$),Environment
+WBIN-0703,Adjusted savings: net forest depletion (% of GNI),Environment
+WBIN-0704,Adjusted savings: net forest depletion (current US$),Environment
+WBIN-0705,Adjusted savings: carbon dioxide damage (% of GNI),Environment
+WBIN-0706,Adjusted savings: carbon dioxide damage (current US$),Environment
+WBIN-0707,Adjusted savings: education expenditure (% of GNI),Environment
+WBIN-0708,Adjusted savings: education expenditure (current US$),Environment
+WBIN-0709,Terrestrial and marine protected areas (% of total territorial area),Environment
+WBIN-0710,Marine protected areas (% of territorial waters),Environment
+WBIN-0711,Terrestrial protected areas (% of total land area),Environment
+WBIN-0712,Renewable internal freshwater resources per capita (cubic meters),Environment
+WBIN-0713,"Renewable internal freshwater resources, total (billion cubic meters)",Environment
+WBIN-0714,"Annual freshwater withdrawals, total (% of internal resources)",Environment
+WBIN-0715,"Annual freshwater withdrawals, total (billion cubic meters)",Environment
+WBIN-0716,Level of water stress: freshwater withdrawal as a proportion of available freshwater resources,Environment
+WBIN-0717,"Annual freshwater withdrawals, industry (% of total freshwater withdrawal)",Environment
+WBIN-0718,"Annual freshwater withdrawals, domestic (% of total freshwater withdrawal)",Environment
+WBIN-0719,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",Environment
+WBIN-0720,"Water productivity, total (constant 2015 US$ GDP per cubic meter of total freshwater withdrawal)",Environment
+WBIN-0721,Total fisheries production (metric tons),Environment
+WBIN-0722,Capture fisheries production (metric tons),Environment
+WBIN-0723,Aquaculture production (metric tons),Environment
+WBIN-0724,Population living in slums (% of urban population),Environment
+WBIN-0725,Population living in areas where elevation is below 5 meters (% of total population),Environment
+WBIN-0726,Urban population living in areas where elevation is below 5 meters (% of total population),Environment
+WBIN-0727,Rural population living in areas where elevation is below 5 meters (% of total population),Environment
+WBIN-0728,"Mammal species, threatened",Environment
+WBIN-0729,"Plant species (higher), threatened",Environment
+WBIN-0730,"Fish species, threatened",Environment
+WBIN-0731,CO2 emissions from transport (% of total fuel combustion),Environment
+WBIN-0732,"CO2 emissions from other sectors, excluding residential buildings and commercial and public services (% of total fuel combustion)",Environment
+WBIN-0733,CO2 emissions from manufacturing industries and construction (% of total fuel combustion),Environment
+WBIN-0734,"CO2 emissions from electricity and heat production, total (% of total fuel combustion)",Environment
+WBIN-0735,CO2 emissions from residential buildings and commercial and public services (% of total fuel combustion),Environment
+WBIN-0736,"Droughts, floods, extreme temperatures (% of population, average 1990-2009)",Environment
+WBIN-0737,GHG net emissions/removals by LUCF (Mt of CO2 equivalent),Environment
+WBIN-0738,Disaster risk reduction progress score (1-5 scale; 5=best),Environment
+WBIN-0739,"Bird species, threatened",Environment
+WBIN-0740,SF6 gas emissions (thousand metric tons of CO2 equivalent),Environment
+WBIN-0741,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value (% of total)",Environment
+WBIN-0742,"PM2.5 pollution, population exposed to levels exceeding WHO Interim Target-3 value (% of total)",Environment
+WBIN-0743,"PM2.5 pollution, population exposed to levels exceeding WHO Interim Target-2 value (% of total)",Environment
+WBIN-0744,"PM2.5 pollution, population exposed to levels exceeding WHO Interim Target-1 value (% of total)",Environment
+WBIN-0745,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",Environment
+WBIN-0746,PFC gas emissions (thousand metric tons of CO2 equivalent),Environment
+WBIN-0747,Nitrous oxide emissions (% change from 1990),Environment
+WBIN-0748,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),Environment
+WBIN-0749,Nitrous oxide emissions in energy sector (% of total),Environment
+WBIN-0750,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),Environment
+WBIN-0751,Agricultural nitrous oxide emissions (% of total),Environment
+WBIN-0752,Agricultural nitrous oxide emissions (thousand metric tons of CO2 equivalent),Environment
+WBIN-0753,Methane emissions (% change from 1990),Environment
+WBIN-0754,Methane emissions (kt of CO2 equivalent),Environment
+WBIN-0755,Energy related methane emissions (% of total),Environment
+WBIN-0756,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),Environment
+WBIN-0757,Agricultural methane emissions (% of total),Environment
+WBIN-0758,Agricultural methane emissions (thousand metric tons of CO2 equivalent),Environment
+WBIN-0759,HFC gas emissions (thousand metric tons of CO2 equivalent),Environment
+WBIN-0760,Total greenhouse gas emissions (% change from 1990),Environment
+WBIN-0761,Total greenhouse gas emissions (kt of CO2 equivalent),Environment
+WBIN-0762,Other greenhouse gas emissions (% change from 1990),Environment
+WBIN-0763,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",Environment
+WBIN-0764,CO2 emissions from solid fuel consumption (% of total),Environment
+WBIN-0765,CO2 emissions from solid fuel consumption (kt),Environment
+WBIN-0766,CO2 emissions (kg per 2017 PPP $ of GDP),Environment
+WBIN-0767,CO2 emissions (kg per PPP $ of GDP),Environment
+WBIN-0768,CO2 emissions (metric tons per capita),Environment
+WBIN-0769,CO2 emissions from liquid fuel consumption (% of total),Environment
+WBIN-0770,CO2 emissions from liquid fuel consumption (kt),Environment
+WBIN-0771,CO2 emissions (kt),Environment
+WBIN-0772,CO2 emissions (kg per 2015 US$ of GDP),Environment
+WBIN-0773,CO2 emissions from gaseous fuel consumption (% of total),Environment
+WBIN-0774,CO2 emissions from gaseous fuel consumption (kt),Environment
+WBIN-0775,CO2 intensity (kg per kg of oil equivalent energy use),Environment
+WBIN-0776,Renewable energy consumption (% of total final energy consumption),Environment
+WBIN-0777,"Electricity production from renewable sources, excluding hydroelectric (% of total)",Environment
+WBIN-0778,"Electricity production from renewable sources, excluding hydroelectric (kWh)",Environment
+WBIN-0779,Renewable electricity output (% of total electricity output),Environment
+WBIN-0780,"Electricity production from oil, gas and coal sources (% of total)",Environment
+WBIN-0781,Access to electricity (% of population),Environment
+WBIN-0782,Energy intensity level of primary energy (MJ/$2017 PPP GDP),Environment
+WBIN-0783,Access to clean fuels and technologies for cooking (% of population),Environment
+WBIN-0784,"Access to clean fuels and technologies for cooking, urban (% of urban population)",Environment
+WBIN-0785,"Access to clean fuels and technologies for cooking, rural (% of rural population)",Environment
+WBIN-0786,Surface area (sq. km),Environment
+WBIN-0787,Urban land area (sq. km),Environment
+WBIN-0788,Rural land area (sq. km),Environment
+WBIN-0789,Land area (sq. km),Environment
+WBIN-0790,Average precipitation in depth (mm per year),Environment
+WBIN-0791,Forest area (% of land area),Environment
+WBIN-0792,Forest area (sq. km),Environment
+WBIN-0793,Land area where elevation is below 5 meters (% of total land area),Environment
+WBIN-0794,Urban land area where elevation is below 5 meters (% of total land area),Environment
+WBIN-0795,Urban land area where elevation is below 5 meters (sq. km),Environment
+WBIN-0796,Rural land area where elevation is below 5 meters (% of total land area),Environment
+WBIN-0797,Rural land area where elevation is below 5 meters (sq. km),Environment
+WBIN-0798,Arable land (% of land area),Environment
+WBIN-0799,Agricultural land (% of land area),Environment
+WBIN-0800,GNI (current US$),ExternalDebt
+WBIN-0801,Total reserves in months of imports,ExternalDebt
+WBIN-0802,Total reserves (% of total external debt),ExternalDebt
+WBIN-0803,"Total reserves (includes gold, current US$)",ExternalDebt
+WBIN-0804,Multilateral debt service (% of public and publicly guaranteed debt service),ExternalDebt
+WBIN-0805,"Multilateral debt service (TDS, current US$)",ExternalDebt
+WBIN-0806,"Public and publicly guaranteed debt service (% of exports of goods, services and primary income)",ExternalDebt
+WBIN-0807,Public and publicly guaranteed debt service (% of GNI),ExternalDebt
+WBIN-0808,"Debt service on external debt, public and publicly guaranteed (PPG) (TDS, current US$)",ExternalDebt
+WBIN-0809,"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",ExternalDebt
+WBIN-0810,"IMF repurchases and charges (TDS, current US$)",ExternalDebt
+WBIN-0811,Total debt service (% of GNI),ExternalDebt
+WBIN-0812,"Total debt service (% of exports of goods, services and primary income)",ExternalDebt
+WBIN-0813,"Debt service on external debt, total (TDS, current US$)",ExternalDebt
+WBIN-0814,Net ODA received per capita (current US$),ExternalDebt
+WBIN-0815,Net ODA received (% of GNI),ExternalDebt
+WBIN-0816,Net official development assistance received (current US$),ExternalDebt
+WBIN-0817,"Net financial flows, RDB nonconcessional (NFL, current US$)",ExternalDebt
+WBIN-0818,"Net financial flows, RDB concessional (NFL, current US$)",ExternalDebt
+WBIN-0819,"PPG, private creditors (NFL, US$)",ExternalDebt
+WBIN-0820,"PPG, other private creditors (NFL, current US$)",ExternalDebt
+WBIN-0821,"PNG, commercial banks and other creditors (NFL, current US$)",ExternalDebt
+WBIN-0822,"PNG, bonds (NFL, current US$)",ExternalDebt
+WBIN-0823,"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",ExternalDebt
+WBIN-0824,"PPG, commercial banks (NFL, current US$)",ExternalDebt
+WBIN-0825,"PPG, bonds (NFL, current US$)",ExternalDebt
+WBIN-0826,"PPG, official creditors (NFL, US$)",ExternalDebt
+WBIN-0827,"IFC, private nonguaranteed (NFL, US$)",ExternalDebt
+WBIN-0828,"Net financial flows, others (NFL, current US$)",ExternalDebt
+WBIN-0829,"Net financial flows, multilateral (NFL, current US$)",ExternalDebt
+WBIN-0830,"Net financial flows, IDA (NFL, current US$)",ExternalDebt
+WBIN-0831,"Net financial flows, IBRD (NFL, current US$)",ExternalDebt
+WBIN-0832,"Net financial flows, IMF nonconcessional (NFL, current US$)",ExternalDebt
+WBIN-0833,"Net financial flows, IMF concessional (NFL, current US$)",ExternalDebt
+WBIN-0834,"Net flows on external debt, private nonguaranteed (PNG) (NFL, current US$)",ExternalDebt
+WBIN-0835,"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",ExternalDebt
+WBIN-0836,"Net financial flows, bilateral (NFL, current US$)",ExternalDebt
+WBIN-0837,Present value of external debt (% of GNI),ExternalDebt
+WBIN-0838,"Present value of external debt (% of exports of goods, services and primary income)",ExternalDebt
+WBIN-0839,Present value of external debt (current US$),ExternalDebt
+WBIN-0840,"IBRD loans and IDA credits (DOD, current US$)",ExternalDebt
+WBIN-0841,"PPG, IDA (DOD, current US$)",ExternalDebt
+WBIN-0842,"PPG, IBRD (DOD, current US$)",ExternalDebt
+WBIN-0843,Short-term debt (% of total external debt),ExternalDebt
+WBIN-0844,"Short-term debt (% of exports of goods, services and primary income)",ExternalDebt
+WBIN-0845,Short-term debt (% of total reserves),ExternalDebt
+WBIN-0846,"External debt stocks, short-term (DOD, current US$)",ExternalDebt
+WBIN-0847,"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",ExternalDebt
+WBIN-0848,"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",ExternalDebt
+WBIN-0849,"External debt stocks, long-term (DOD, current US$)",ExternalDebt
+WBIN-0850,"Use of IMF credit (DOD, current US$)",ExternalDebt
+WBIN-0851,External debt stocks (% of GNI),ExternalDebt
+WBIN-0852,"External debt stocks, total (DOD, current US$)",ExternalDebt
+WBIN-0853,"Personal remittances, received (current US$)",ExternalDebt
+WBIN-0854,"Portfolio equity, net inflows (BoP, current US$)",ExternalDebt
+WBIN-0855,"Foreign direct investment, net inflows (BoP, current US$)",ExternalDebt
+WBIN-0856,"Exports of goods, services and primary income (BoP, current US$)",ExternalDebt
+WBIN-0857,"Technical cooperation grants (BoP, current US$)",ExternalDebt
+WBIN-0858,"Grants, excluding technical cooperation (BoP, current US$)",ExternalDebt
+WBIN-0859,"Current account balance (BoP, current US$)",ExternalDebt
+WBIN-0860,"Imports of goods, services and primary income (BoP, current US$)",ExternalDebt
+WBIN-0861,International migrant stock (% of population),FinancialSector
+WBIN-0862,"International migrant stock, total",FinancialSector
+WBIN-0863,Net migration,FinancialSector
+WBIN-0864,Average transaction cost of sending remittances from a specific country (%),FinancialSector
+WBIN-0865,Average transaction cost of sending remittances to a specific country (%),FinancialSector
+WBIN-0866,Real effective exchange rate index (2010 = 100),FinancialSector
+WBIN-0867,"Official exchange rate (LCU per US$, period average)",FinancialSector
+WBIN-0868,DEC alternative conversion factor (LCU per US$),FinancialSector
+WBIN-0869,GDP deflator: linked series (base year varies by country),FinancialSector
+WBIN-0870,"Inflation, GDP deflator: linked series (annual %)",FinancialSector
+WBIN-0871,Strength of legal rights index (0=weak to 12=strong),FinancialSector
+WBIN-0872,Public credit registry coverage (% of adults),FinancialSector
+WBIN-0873,Private credit bureau coverage (% of adults),FinancialSector
+WBIN-0874,Depth of credit information index (0=low to 8=high),FinancialSector
+WBIN-0875,Account ownership at a financial institution or with a mobile-money-service provider (% of population ages 15+),FinancialSector
+WBIN-0876,"Account ownership at a financial institution or with a mobile-money-service provider, young adults (% of population ages 15-24)",FinancialSector
+WBIN-0877,"Account ownership at a financial institution or with a mobile-money-service provider, secondary education or more (% of population ages 15+)",FinancialSector
+WBIN-0878,"Account ownership at a financial institution or with a mobile-money-service provider, primary education or less (% of population ages 15+)",FinancialSector
+WBIN-0879,"Account ownership at a financial institution or with a mobile-money-service provider, older adults (% of population ages 25+)",FinancialSector
+WBIN-0880,"Account ownership at a financial institution or with a mobile-money-service provider, male (% of population ages 15+)",FinancialSector
+WBIN-0881,"Account ownership at a financial institution or with a mobile-money-service provider, female (% of population ages 15+)",FinancialSector
+WBIN-0882,"Account ownership at a financial institution or with a mobile-money-service provider, richest 60% (% of population ages 15+)",FinancialSector
+WBIN-0883,"Account ownership at a financial institution or with a mobile-money-service provider, poorest 40% (% of population ages 15+)",FinancialSector
+WBIN-0884,Domestic credit to private sector (% of GDP),FinancialSector
+WBIN-0885,Domestic credit provided by financial sector (% of GDP),FinancialSector
+WBIN-0886,Claims on other sectors of the domestic economy (% of GDP),FinancialSector
+WBIN-0887,"Claims on central government, etc. (% GDP)",FinancialSector
+WBIN-0888,"Risk premium on lending (lending rate minus treasury bill rate, %)",FinancialSector
+WBIN-0889,Real interest rate (%),FinancialSector
+WBIN-0890,"Interest rate spread (lending rate minus deposit rate, %)",FinancialSector
+WBIN-0891,Lending interest rate (%),FinancialSector
+WBIN-0892,Deposit interest rate (%),FinancialSector
+WBIN-0893,Wholesale price index (2010 = 100),FinancialSector
+WBIN-0894,"Inflation, consumer prices (annual %)",FinancialSector
+WBIN-0895,Consumer price index (2010 = 100),FinancialSector
+WBIN-0896,Broad money growth (annual %),FinancialSector
+WBIN-0897,Broad money to total reserves ratio,FinancialSector
+WBIN-0898,Broad money (% of GDP),FinancialSector
+WBIN-0899,Broad money (current LCU),FinancialSector
+WBIN-0900,Claims on private sector (annual growth as % of broad money),FinancialSector
+WBIN-0901,Monetary Sector credit to private sector (% GDP),FinancialSector
+WBIN-0902,Net foreign assets (current LCU),FinancialSector
+WBIN-0903,Net domestic credit (current LCU),FinancialSector
+WBIN-0904,Claims on other sectors of the domestic economy (annual growth as % of broad money),FinancialSector
+WBIN-0905,Claims on central government (annual growth as % of broad money),FinancialSector
+WBIN-0906,Total reserves minus gold (current US$),FinancialSector
+WBIN-0907,Total reserves in months of imports,FinancialSector
+WBIN-0908,Total reserves (% of total external debt),FinancialSector
+WBIN-0909,"Total reserves (includes gold, current US$)",FinancialSector
+WBIN-0910,Bank liquid reserves to bank assets ratio (%),FinancialSector
+WBIN-0911,Domestic credit to private sector by banks (% of GDP),FinancialSector
+WBIN-0912,"Depositors with commercial banks (per 1,000 adults)",FinancialSector
+WBIN-0913,"Borrowers from commercial banks (per 1,000 adults)",FinancialSector
+WBIN-0914,"Commercial bank branches (per 100,000 adults)",FinancialSector
+WBIN-0915,Bank capital to assets ratio (%),FinancialSector
+WBIN-0916,"Automated teller machines (ATMs) (per 100,000 adults)",FinancialSector
+WBIN-0917,Bank nonperforming loans to total gross loans (%),FinancialSector
+WBIN-0918,"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",FinancialSector
+WBIN-0919,"Stocks traded, turnover ratio of domestic shares (%)",FinancialSector
+WBIN-0920,"Stocks traded, total value (% of GDP)",FinancialSector
+WBIN-0921,"Stocks traded, total value (current US$)",FinancialSector
+WBIN-0922,"Listed domestic companies, total",FinancialSector
+WBIN-0923,Market capitalization of listed domestic companies (% of GDP),FinancialSector
+WBIN-0924,Market capitalization of listed domestic companies (current US$),FinancialSector
+WBIN-0925,S&P Global Equity Indices (annual % change),FinancialSector
+WBIN-0926,"Personal remittances, received (% of GDP)",FinancialSector
+WBIN-0927,"Personal remittances, received (current US$)",FinancialSector
+WBIN-0928,"Personal transfers, receipts (BoP, current US$)",FinancialSector
+WBIN-0929,"Portfolio equity, net inflows (BoP, current US$)",FinancialSector
+WBIN-0930,"Foreign direct investment, net inflows (% of GDP)",FinancialSector
+WBIN-0931,"Foreign direct investment, net inflows (BoP, current US$)",FinancialSector
+WBIN-0932,"Portfolio investment, net (BoP, current US$)",FinancialSector
+WBIN-0933,"Foreign direct investment, net (BoP, current US$)",FinancialSector
+WBIN-0934,"Personal remittances, paid (current US$)",FinancialSector
+WBIN-0935,"Foreign direct investment, net outflows (% of GDP)",FinancialSector
+WBIN-0936,"Foreign direct investment, net outflows (BoP, current US$)",FinancialSector
+WBIN-0937,Teenage mothers (% of women ages 15-19 who have had children or are currently pregnant),Gender
+WBIN-0938,Women who were first married by age 18 (% of women ages 20-24),Gender
+WBIN-0939,Women who were first married by age 15 (% of women ages 20-24),Gender
+WBIN-0940,Female headed households (% of households with a female head),Gender
+WBIN-0941,Wanted fertility rate (births per woman),Gender
+WBIN-0942,"Survival to age 65, male (% of cohort)",Gender
+WBIN-0943,"Survival to age 65, female (% of cohort)",Gender
+WBIN-0944,"Fertility rate, total (births per woman)",Gender
+WBIN-0945,"Life expectancy at birth, male (years)",Gender
+WBIN-0946,"Life expectancy at birth, female (years)",Gender
+WBIN-0947,"Contraceptive prevalence, any method (% of married women ages 15-49)",Gender
+WBIN-0948,"Mortality rate, adult, male (per 1,000 male adults)",Gender
+WBIN-0949,"Mortality rate, adult, female (per 1,000 female adults)",Gender
+WBIN-0950,"Adolescent fertility rate (births per 1,000 women ages 15-19)",Gender
+WBIN-0951,"Unemployment, male (% of male labor force) (modeled ILO estimate)",Gender
+WBIN-0952,"Unemployment, female (% of female labor force) (modeled ILO estimate)",Gender
+WBIN-0953,"Unemployment, youth male (% of male labor force ages 15-24) (modeled ILO estimate)",Gender
+WBIN-0954,"Unemployment, youth female (% of female labor force ages 15-24) (modeled ILO estimate)",Gender
+WBIN-0955,"Labor force, female (% of total labor force)",Gender
+WBIN-0956,"Part time employment, male (% of total male employment)",Gender
+WBIN-0957,"Part time employment, female (% of total female employment)",Gender
+WBIN-0958,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",Gender
+WBIN-0959,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",Gender
+WBIN-0960,"Children in employment, work only, male (% of male children in employment, ages 7-14)",Gender
+WBIN-0961,"Children in employment, work only, female (% of female children in employment, ages 7-14)",Gender
+WBIN-0962,"Children in employment, study and work, male (% of male children in employment, ages 7-14)",Gender
+WBIN-0963,"Children in employment, study and work, female (% of female children in employment, ages 7-14)",Gender
+WBIN-0964,"Children in employment, male (% of male children ages 7-14)",Gender
+WBIN-0965,"Children in employment, female (% of female children ages 7-14)",Gender
+WBIN-0966,"Employment in services, male (% of male employment) (modeled ILO estimate)",Gender
+WBIN-0967,"Employment in services, female (% of female employment) (modeled ILO estimate)",Gender
+WBIN-0968,"Child employment in services, male (% of male economically active children ages 7-14)",Gender
+WBIN-0969,"Child employment in services, female (% of female economically active children ages 7-14)",Gender
+WBIN-0970,"Child employment in manufacturing, male (% of male economically active children ages 7-14)",Gender
+WBIN-0971,"Child employment in manufacturing, female (% of female economically active children ages 7-14)",Gender
+WBIN-0972,"Employment in industry, male (% of male employment) (modeled ILO estimate)",Gender
+WBIN-0973,"Employment in industry, female (% of female employment) (modeled ILO estimate)",Gender
+WBIN-0974,"Contributing family workers, male (% of male employment) (modeled ILO estimate)",Gender
+WBIN-0975,"Contributing family workers, female (% of female employment) (modeled ILO estimate)",Gender
+WBIN-0976,"Wage and salaried workers, male (% of male employment) (modeled ILO estimate)",Gender
+WBIN-0977,"Wage and salaried workers, female (% of female employment) (modeled ILO estimate)",Gender
+WBIN-0978,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",Gender
+WBIN-0979,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",Gender
+WBIN-0980,"Employment to population ratio, 15+, male (%) (modeled ILO estimate)",Gender
+WBIN-0981,"Employment to population ratio, 15+, female (%) (modeled ILO estimate)",Gender
+WBIN-0982,"Self-employed, male (% of male employment) (modeled ILO estimate)",Gender
+WBIN-0983,"Self-employed, female (% of female employment) (modeled ILO estimate)",Gender
+WBIN-0984,"Employers, male (% of male employment) (modeled ILO estimate)",Gender
+WBIN-0985,"Employers, female (% of female employment) (modeled ILO estimate)",Gender
+WBIN-0986,"Employment to population ratio, ages 15-24, male (%) (modeled ILO estimate)",Gender
+WBIN-0987,"Employment to population ratio, ages 15-24, female (%) (modeled ILO estimate)",Gender
+WBIN-0988,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",Gender
+WBIN-0989,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",Gender
+WBIN-0990,"Child employment in agriculture, male (% of male economically active children ages 7-14)",Gender
+WBIN-0991,"Child employment in agriculture, female (% of female economically active children ages 7-14)",Gender
+WBIN-0992,"Maternal mortality ratio (national estimate, per 100,000 live births)",Gender
+WBIN-0993,"Maternal mortality ratio (modeled estimate, per 100,000 live births)",Gender
+WBIN-0994,"Prevalence of underweight, weight for age, male (% of children under 5)",Gender
+WBIN-0995,"Prevalence of underweight, weight for age, female (% of children under 5)",Gender
+WBIN-0996,Births attended by skilled health staff (% of total),Gender
+WBIN-0997,Pregnant women receiving prenatal care (%),Gender
+WBIN-0998,"Prevalence of current tobacco use, males (% of male adults)",Gender
+WBIN-0999,"Prevalence of current tobacco use, females (% of female adults)",Gender
+WBIN-1000,Lifetime risk of maternal death (%),Gender
+WBIN-1001,Lifetime risk of maternal death (1 in: rate varies by country),Gender
+WBIN-1002,"Prevalence of HIV, male (% ages 15-24)",Gender
+WBIN-1003,"Prevalence of HIV, female (% ages 15-24)",Gender
+WBIN-1004,Women's share of population ages 15+ living with HIV (%),Gender
+WBIN-1005,"Condom use, population ages 15-24, male (% of males ages 15-24)",Gender
+WBIN-1006,"Condom use, population ages 15-24, female (% of females ages 15-24)",Gender
+WBIN-1007,Women who believe a husband is justified in beating his wife when she refuses sex with him (%),Gender
+WBIN-1008,Women who believe a husband is justified in beating his wife (any of five reasons) (%),Gender
+WBIN-1009,Women who believe a husband is justified in beating his wife when she neglects the children (%),Gender
+WBIN-1010,Women who believe a husband is justified in beating his wife when she goes out without telling him (%),Gender
+WBIN-1011,Women who believe a husband is justified in beating his wife when she burns the food (%),Gender
+WBIN-1012,Women who believe a husband is justified in beating his wife when she argues with him (%),Gender
+WBIN-1013,Proportion of women subjected to physical and/or sexual violence in the last 12 months (% of ever-partnered women ages 15-49),Gender
+WBIN-1014,"Proportion of time spent on unpaid domestic and care work, male (% of 24 hour day)",Gender
+WBIN-1015,"Proportion of time spent on unpaid domestic and care work, female (% of 24 hour day)",Gender
+WBIN-1016,Women Business and the Law Index Score (scale 1-100),Gender
+WBIN-1017,Proportion of seats held by women in national parliaments (%),Gender
+WBIN-1018,"Women making their own informed decisions regarding sexual relations, contraceptive use and reproductive health care (% of women age 15-49)",Gender
+WBIN-1019,"Women participating in the three decisions (own health care, major household purchases, and visiting family) (% of women age 15-49)",Gender
+WBIN-1020,"School enrollment, tertiary, male (% gross)",Gender
+WBIN-1021,"School enrollment, tertiary, female (% gross)",Gender
+WBIN-1022,"Educational attainment, at least completed short-cycle tertiary, population 25+, total (%) (cumulative)",Gender
+WBIN-1023,"Educational attainment, at least completed short-cycle tertiary, population 25+, male (%) (cumulative)",Gender
+WBIN-1024,"Educational attainment, at least completed short-cycle tertiary, population 25+, female (%) (cumulative)",Gender
+WBIN-1025,"Educational attainment, at least Master's or equivalent, population 25+, total (%) (cumulative)",Gender
+WBIN-1026,"Educational attainment, at least Master's or equivalent, population 25+, male (%) (cumulative)",Gender
+WBIN-1027,"Educational attainment, at least Master's or equivalent, population 25+, female (%) (cumulative)",Gender
+WBIN-1028,"Educational attainment, Doctoral or equivalent, population 25+, total (%) (cumulative)",Gender
+WBIN-1029,"Educational attainment, Doctoral or equivalent, population 25+, male (%) (cumulative)",Gender
+WBIN-1030,"Educational attainment, Doctoral or equivalent, population 25+, female (%) (cumulative)",Gender
+WBIN-1031,"Educational attainment, at least Bachelor's or equivalent, population 25+, total (%) (cumulative)",Gender
+WBIN-1032,"Educational attainment, at least Bachelor's or equivalent, population 25+, male (%) (cumulative)",Gender
+WBIN-1033,"Educational attainment, at least Bachelor's or equivalent, population 25+, female (%) (cumulative)",Gender
+WBIN-1034,"Secondary education, teachers (% female)",Gender
+WBIN-1035,"Progression to secondary school, male (%)",Gender
+WBIN-1036,"Progression to secondary school, female (%)",Gender
+WBIN-1037,"School enrollment, secondary, male (% net)",Gender
+WBIN-1038,"School enrollment, secondary, female (% net)",Gender
+WBIN-1039,"School enrollment, secondary, male (% gross)",Gender
+WBIN-1040,"School enrollment, secondary, female (% gross)",Gender
+WBIN-1041,"Secondary education, vocational pupils (% female)",Gender
+WBIN-1042,"Secondary education, general pupils (% female)",Gender
+WBIN-1043,"Secondary education, pupils (% female)",Gender
+WBIN-1044,"Educational attainment, at least completed upper secondary, population 25+, total (%) (cumulative)",Gender
+WBIN-1045,"Educational attainment, at least completed upper secondary, population 25+, male (%) (cumulative)",Gender
+WBIN-1046,"Educational attainment, at least completed upper secondary, population 25+, female (%) (cumulative)",Gender
+WBIN-1047,"Educational attainment, at least completed post-secondary, population 25+, total (%) (cumulative)",Gender
+WBIN-1048,"Educational attainment, at least completed post-secondary, population 25+, male (%) (cumulative)",Gender
+WBIN-1049,"Educational attainment, at least completed post-secondary, population 25+, female (%) (cumulative)",Gender
+WBIN-1050,"Educational attainment, at least completed lower secondary, population 25+, total (%) (cumulative)",Gender
+WBIN-1051,"Educational attainment, at least completed lower secondary, population 25+, male (%) (cumulative)",Gender
+WBIN-1052,"Educational attainment, at least completed lower secondary, population 25+, female (%) (cumulative)",Gender
+WBIN-1053,"Children out of school, primary, male",Gender
+WBIN-1054,"Children out of school, primary, female",Gender
+WBIN-1055,"Adjusted net enrollment rate, primary, male (% of primary school age children)",Gender
+WBIN-1056,"Adjusted net enrollment rate, primary, female (% of primary school age children)",Gender
+WBIN-1057,"Primary education, teachers (% female)",Gender
+WBIN-1058,"Trained teachers in primary education, male (% of male teachers)",Gender
+WBIN-1059,"Trained teachers in primary education, female (% of female teachers)",Gender
+WBIN-1060,"Repeaters, primary, male (% of male enrollment)",Gender
+WBIN-1061,"Repeaters, primary, female (% of female enrollment)",Gender
+WBIN-1062,"Persistence to last grade of primary, male (% of cohort)",Gender
+WBIN-1063,"Persistence to last grade of primary, female (% of cohort)",Gender
+WBIN-1064,"Persistence to grade 5, male (% of cohort)",Gender
+WBIN-1065,"Persistence to grade 5, female (% of cohort)",Gender
+WBIN-1066,"Net intake rate in grade 1, male (% of official school-age population)",Gender
+WBIN-1067,"Net intake rate in grade 1, female (% of official school-age population)",Gender
+WBIN-1068,"School enrollment, primary, male (% net)",Gender
+WBIN-1069,"School enrollment, primary, female (% net)",Gender
+WBIN-1070,"Gross intake ratio in first grade of primary education, male (% of relevant age group)",Gender
+WBIN-1071,"Gross intake ratio in first grade of primary education, female (% of relevant age group)",Gender
+WBIN-1072,"School enrollment, primary, male (% gross)",Gender
+WBIN-1073,"School enrollment, primary, female (% gross)",Gender
+WBIN-1074,"Primary education, pupils (% female)",Gender
+WBIN-1075,"Educational attainment, at least completed primary, population 25+ years, total (%) (cumulative)",Gender
+WBIN-1076,"Educational attainment, at least completed primary, population 25+ years, male (%) (cumulative)",Gender
+WBIN-1077,"Educational attainment, at least completed primary, population 25+ years, female (%) (cumulative)",Gender
+WBIN-1078,"Primary completion rate, male (% of relevant age group)",Gender
+WBIN-1079,"Primary completion rate, female (% of relevant age group)",Gender
+WBIN-1080,"School enrollment, preprimary, male (% gross)",Gender
+WBIN-1081,"School enrollment, preprimary, female (% gross)",Gender
+WBIN-1082,"School enrollment, tertiary (gross), gender parity index (GPI)",Gender
+WBIN-1083,"School enrollment, secondary (gross), gender parity index (GPI)",Gender
+WBIN-1084,"School enrollment, primary and secondary (gross), gender parity index (GPI)",Gender
+WBIN-1085,"School enrollment, primary (gross), gender parity index (GPI)",Gender
+WBIN-1086,"Literacy rate, adult male (% of males ages 15 and above)",Gender
+WBIN-1087,"Literacy rate, adult female (% of females ages 15 and above)",Gender
+WBIN-1088,"Literacy rate, youth male (% of males ages 15-24)",Gender
+WBIN-1089,"Literacy rate, youth (ages 15-24), gender parity index (GPI)",Gender
+WBIN-1090,"Literacy rate, youth female (% of females ages 15-24)",Gender
+WBIN-1091,Firms with female participation in ownership (% of firms),Gender
+WBIN-1092,Firms with female top manager (% of firms),Gender
+WBIN-1093,Unmet need for contraception (% of married women ages 15-49),Health
+WBIN-1094,Completeness of death registration with cause-of-death information (%),Health
+WBIN-1095,Completeness of birth registration (%),Health
+WBIN-1096,"Completeness of birth registration, urban (%)",Health
+WBIN-1097,"Completeness of birth registration, rural (%)",Health
+WBIN-1098,"Completeness of birth registration, male (%)",Health
+WBIN-1099,"Completeness of birth registration, female (%)",Health
+WBIN-1100,"Population, male (% of total population)",Health
+WBIN-1101,"Population, male",Health
+WBIN-1102,"Population, female (% of total population)",Health
+WBIN-1103,"Population, female",Health
+WBIN-1104,"Population, total",Health
+WBIN-1105,Population growth (annual %),Health
+WBIN-1106,"Age dependency ratio, young (% of working-age population)",Health
+WBIN-1107,"Age dependency ratio, old (% of working-age population)",Health
+WBIN-1108,Age dependency ratio (% of working-age population),Health
+WBIN-1109,Sex ratio at birth (male births per female births),Health
+WBIN-1110,"Population ages 80 and above, male (% of male population)",Health
+WBIN-1111,"Population ages 80 and above, female (% of female population)",Health
+WBIN-1112,"Population ages 75-79, male (% of male population)",Health
+WBIN-1113,"Population ages 75-79, female (% of female population)",Health
+WBIN-1114,"Population ages 70-74, male (% of male population)",Health
+WBIN-1115,"Population ages 70-74, female (% of female population)",Health
+WBIN-1116,Population ages 65 and above (% of total population),Health
+WBIN-1117,"Population ages 65 and above, total",Health
+WBIN-1118,"Population ages 65 and above, male (% of male population)",Health
+WBIN-1119,"Population ages 65 and above, male",Health
+WBIN-1120,"Population ages 65 and above, female (% of female population)",Health
+WBIN-1121,"Population ages 65 and above, female",Health
+WBIN-1122,"Population ages 65-69, male (% of male population)",Health
+WBIN-1123,"Population ages 65-69, female (% of female population)",Health
+WBIN-1124,"Population ages 60-64, male (% of male population)",Health
+WBIN-1125,"Population ages 60-64, female (% of female population)",Health
+WBIN-1126,"Population ages 55-59, male (% of male population)",Health
+WBIN-1127,"Population ages 55-59, female (% of female population)",Health
+WBIN-1128,"Population ages 50-54, male (% of male population)",Health
+WBIN-1129,"Population ages 50-54, female (% of female population)",Health
+WBIN-1130,"Population ages 45-49, male (% of male population)",Health
+WBIN-1131,"Population ages 45-49, female (% of female population)",Health
+WBIN-1132,"Population ages 40-44, male (% of male population)",Health
+WBIN-1133,"Population ages 40-44, female (% of female population)",Health
+WBIN-1134,"Population ages 35-39, male (% of male population)",Health
+WBIN-1135,"Population ages 35-39, female (% of female population)",Health
+WBIN-1136,"Population ages 30-34, male (% of male population)",Health
+WBIN-1137,"Population ages 30-34, female (% of female population)",Health
+WBIN-1138,"Population ages 25-29, male (% of male population)",Health
+WBIN-1139,"Population ages 25-29, female (% of female population)",Health
+WBIN-1140,"Population ages 20-24, male (% of male population)",Health
+WBIN-1141,"Population ages 20-24, female (% of female population)",Health
+WBIN-1142,Population ages 15-64 (% of total population),Health
+WBIN-1143,"Population ages 15-64, total",Health
+WBIN-1144,"Population ages 15-64, male (% of male population)",Health
+WBIN-1145,"Population ages 15-64, male",Health
+WBIN-1146,"Population ages 15-64, female (% of female population)",Health
+WBIN-1147,"Population ages 15-64, female",Health
+WBIN-1148,"Population ages 15-19, male (% of male population)",Health
+WBIN-1149,"Population ages 15-19, female (% of female population)",Health
+WBIN-1150,"Population ages 10-14, male (% of male population)",Health
+WBIN-1151,"Population ages 10-14, female (% of female population)",Health
+WBIN-1152,"Population ages 05-09, male (% of male population)",Health
+WBIN-1153,"Population ages 05-09, female (% of female population)",Health
+WBIN-1154,Population ages 0-14 (% of total population),Health
+WBIN-1155,"Population ages 0-14, total",Health
+WBIN-1156,"Population ages 0-14, male (% of male population)",Health
+WBIN-1157,"Population ages 0-14, male",Health
+WBIN-1158,"Population ages 0-14, female (% of female population)",Health
+WBIN-1159,"Population ages 0-14, female",Health
+WBIN-1160,"Population ages 00-04, male (% of male population)",Health
+WBIN-1161,"Population ages 00-04, female (% of female population)",Health
+WBIN-1162,Teenage mothers (% of women ages 15-19 who have had children or are currently pregnant),Health
+WBIN-1163,Women who were first married by age 18 (% of women ages 20-24),Health
+WBIN-1164,Women who were first married by age 15 (% of women ages 20-24),Health
+WBIN-1165,Female headed households (% of households with a female head),Health
+WBIN-1166,Wanted fertility rate (births per woman),Health
+WBIN-1167,"Survival to age 65, male (% of cohort)",Health
+WBIN-1168,"Survival to age 65, female (% of cohort)",Health
+WBIN-1169,"Fertility rate, total (births per woman)",Health
+WBIN-1170,"Life expectancy at birth, male (years)",Health
+WBIN-1171,"Life expectancy at birth, total (years)",Health
+WBIN-1172,"Life expectancy at birth, female (years)",Health
+WBIN-1173,"Mortality rate, infant, male (per 1,000 live births)",Health
+WBIN-1174,"Mortality rate, infant (per 1,000 live births)",Health
+WBIN-1175,"Mortality rate, infant, female (per 1,000 live births)",Health
+WBIN-1176,"Contraceptive prevalence, any method (% of married women ages 15-49)",Health
+WBIN-1177,"Contraceptive prevalence, any modern method (% of married women ages 15-49)",Health
+WBIN-1178,"Death rate, crude (per 1,000 people)",Health
+WBIN-1179,"Birth rate, crude (per 1,000 people)",Health
+WBIN-1180,"Mortality rate, adult, male (per 1,000 male adults)",Health
+WBIN-1181,"Mortality rate, adult, female (per 1,000 female adults)",Health
+WBIN-1182,"Adolescent fertility rate (births per 1,000 women ages 15-19)",Health
+WBIN-1183,Vitamin A supplementation coverage rate (% of children ages 6-59 months),Health
+WBIN-1184,Prevalence of severe food insecurity in the population (%),Health
+WBIN-1185,Consumption of iodized salt (% of households),Health
+WBIN-1186,Prevalence of moderate or severe food insecurity in the population (%),Health
+WBIN-1187,Prevalence of undernourishment (% of population),Health
+WBIN-1188,International migrant stock (% of population),Health
+WBIN-1189,"International migrant stock, total",Health
+WBIN-1190,Refugee population by country or territory of origin,Health
+WBIN-1191,Refugee population by country or territory of asylum,Health
+WBIN-1192,Net migration,Health
+WBIN-1193,"Domestic private health expenditure per capita, PPP (current international $)",Health
+WBIN-1194,Domestic private health expenditure per capita (current US$),Health
+WBIN-1195,Domestic private health expenditure (% of current health expenditure),Health
+WBIN-1196,"Out-of-pocket expenditure per capita, PPP (current international $)",Health
+WBIN-1197,Out-of-pocket expenditure per capita (current US$),Health
+WBIN-1198,Out-of-pocket expenditure (% of current health expenditure),Health
+WBIN-1199,"Domestic general government health expenditure per capita, PPP (current international $)",Health
+WBIN-1200,Domestic general government health expenditure per capita (current US$),Health
+WBIN-1201,Domestic general government health expenditure (% of general government expenditure),Health
+WBIN-1202,Domestic general government health expenditure (% of GDP),Health
+WBIN-1203,Domestic general government health expenditure (% of current health expenditure),Health
+WBIN-1204,"External health expenditure per capita, PPP (current international $)",Health
+WBIN-1205,External health expenditure per capita (current US$),Health
+WBIN-1206,External health expenditure (% of current health expenditure),Health
+WBIN-1207,"Current health expenditure per capita, PPP (current international $)",Health
+WBIN-1208,Current health expenditure per capita (current US$),Health
+WBIN-1209,Current health expenditure (% of GDP),Health
+WBIN-1210,Newborns protected against tetanus (%),Health
+WBIN-1211,Proportion of population pushed or further pushed below the 60% median consumption poverty line by out-of-pocket health expenditure (%),Health
+WBIN-1212,Proportion of population pushed or further pushed below the $3.65 ($ 2017 PPP) poverty line by out-of-pocket health care expenditure (%),Health
+WBIN-1213,Proportion of population pushed or further pushed below the $2.15 ($ 2017 PPP) poverty line by out-of-pocket health care expenditure (%),Health
+WBIN-1214,UHC service coverage index,Health
+WBIN-1215,Proportion of population spending more than 25% of household consumption or income on out-of-pocket health care expenditure (%),Health
+WBIN-1216,Proportion of population spending more than 10% of household consumption or income on out-of-pocket health care expenditure (%),Health
+WBIN-1217,Proportion of population pushed below the 60% median consumption poverty line by out-of-pocket health expenditure (%),Health
+WBIN-1218,Proportion of population pushed below the $3.65 ($ 2017 PPP) poverty line by out-of-pocket health care expenditure (%),Health
+WBIN-1219,Proportion of population pushed below the $2.15 ($ 2017 PPP) poverty line by out-of-pocket health care expenditure (%),Health
+WBIN-1220,Proportion of population pushed further below the 60% median consumption poverty line by out-of-pocket health care expenditure (%),Health
+WBIN-1221,Proportion of population pushed further below the $3.65 ($ 2017 PPP) poverty line by out-of-pocket health care expenditure (%),Health
+WBIN-1222,Proportion of population pushed further below the $2.15 ($ 2017 PPP) poverty line by out-of-pocket health care expenditure (%),Health
+WBIN-1223,"Incidence of tuberculosis (per 100,000 people)",Health
+WBIN-1224,"Tuberculosis case detection rate (%, all forms)",Health
+WBIN-1225,Tuberculosis treatment success rate (% of new cases),Health
+WBIN-1226,"Prevalence of severe wasting, weight for height (% of children under 5)",Health
+WBIN-1227,"Prevalence of severe wasting, weight for height, male (% of children under 5)",Health
+WBIN-1228,"Prevalence of severe wasting, weight for height, female (% of children under 5)",Health
+WBIN-1229,"Prevalence of wasting, weight for height (% of children under 5)",Health
+WBIN-1230,"Prevalence of wasting, weight for height, male (% of children under 5)",Health
+WBIN-1231,"Prevalence of wasting, weight for height, female (% of children under 5)",Health
+WBIN-1232,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene (per 100,000 population)",Health
+WBIN-1233,"Mortality caused by road traffic injury (per 100,000 population)",Health
+WBIN-1234,"Suicide mortality rate (per 100,000 population)",Health
+WBIN-1235,"Suicide mortality rate, male (per 100,000 male population)",Health
+WBIN-1236,"Suicide mortality rate, female (per 100,000 female population)",Health
+WBIN-1237,"Prevalence of stunting, height for age (% of children under 5)",Health
+WBIN-1238,"Prevalence of stunting, height for age (modeled estimate, % of children under 5)",Health
+WBIN-1239,"Prevalence of stunting, height for age, male (% of children under 5)",Health
+WBIN-1240,"Prevalence of stunting, height for age, female (% of children under 5)",Health
+WBIN-1241,People using safely managed sanitation services (% of population),Health
+WBIN-1242,"People using safely managed sanitation services, urban (% of urban population)",Health
+WBIN-1243,"People using safely managed sanitation services, rural (% of rural population)",Health
+WBIN-1244,"Mortality rate attributed to unintentional poisoning, male (per 100,000 male population)",Health
+WBIN-1245,"Mortality rate attributed to unintentional poisoning, female (per 100,000 female population)",Health
+WBIN-1246,"Mortality rate attributed to unintentional poisoning (per 100,000 population)",Health
+WBIN-1247,"Prevalence of overweight, weight for height (% of children under 5)",Health
+WBIN-1248,"Prevalence of overweight (modeled estimate, % of children under 5)",Health
+WBIN-1249,"Prevalence of overweight, weight for height, male (% of children under 5)",Health
+WBIN-1250,"Prevalence of overweight, weight for height, female (% of children under 5)",Health
+WBIN-1251,Diarrhea treatment (% of children under 5 who received ORS packet),Health
+WBIN-1252,Diarrhea treatment (% of children under 5 receiving oral rehydration and continued feeding),Health
+WBIN-1253,People practicing open defecation (% of population),Health
+WBIN-1254,"People practicing open defecation, urban (% of urban population)",Health
+WBIN-1255,"People practicing open defecation, rural (% of rural population)",Health
+WBIN-1256,"Maternal mortality ratio (national estimate, per 100,000 live births)",Health
+WBIN-1257,"Maternal mortality ratio (modeled estimate, per 100,000 live births)",Health
+WBIN-1258,"Prevalence of underweight, weight for age (% of children under 5)",Health
+WBIN-1259,"Prevalence of underweight, weight for age, male (% of children under 5)",Health
+WBIN-1260,"Prevalence of underweight, weight for age, female (% of children under 5)",Health
+WBIN-1261,People with basic handwashing facilities including soap and water (% of population),Health
+WBIN-1262,"People with basic handwashing facilities including soap and water, urban (% of urban population)",Health
+WBIN-1263,"People with basic handwashing facilities including soap and water, rural (% of rural population)",Health
+WBIN-1264,Female genital mutilation prevalence (%),Health
+WBIN-1265,Diabetes prevalence (% of population ages 20 to 79),Health
+WBIN-1266,Low-birthweight babies (% of births),Health
+WBIN-1267,Births attended by skilled health staff (% of total),Health
+WBIN-1268,Exclusive breastfeeding (% of children under 6 months),Health
+WBIN-1269,People using at least basic sanitation services (% of population),Health
+WBIN-1270,"People using at least basic sanitation services, urban (% of urban population)",Health
+WBIN-1271,"People using at least basic sanitation services, rural (% of rural population)",Health
+WBIN-1272,ARI treatment (% of children under 5 taken to a health provider),Health
+WBIN-1273,Pregnant women receiving prenatal care (%),Health
+WBIN-1274,"Mortality rate attributed to household and ambient air pollution, age-standardized (per 100,000 population)",Health
+WBIN-1275,"Mortality rate attributed to household and ambient air pollution, age-standardized, male (per 100,000 male population)",Health
+WBIN-1276,"Mortality rate attributed to household and ambient air pollution, age-standardized, female (per 100,000 female population)",Health
+WBIN-1277,"Number of surgical procedures (per 100,000 population)",Health
+WBIN-1278,Risk of impoverishing expenditure for surgical care (% of people at risk),Health
+WBIN-1279,Risk of catastrophic expenditure for surgical care (% of people at risk),Health
+WBIN-1280,"Prevalence of current tobacco use, males (% of male adults)",Health
+WBIN-1281,"Prevalence of current tobacco use, females (% of female adults)",Health
+WBIN-1282,Prevalence of current tobacco use (% of adults),Health
+WBIN-1283,Prevalence of anemia among pregnant women (%),Health
+WBIN-1284,Lifetime risk of maternal death (%),Health
+WBIN-1285,Lifetime risk of maternal death (1 in: rate varies by country),Health
+WBIN-1286,Number of maternal deaths,Health
+WBIN-1287,Children with fever receiving antimalarial drugs (% of children under age 5 with fever),Health
+WBIN-1288,Use of insecticide-treated bed nets (% of under-5 population),Health
+WBIN-1289,"Incidence of malaria (per 1,000 population at risk)",Health
+WBIN-1290,"Specialist surgical workforce (per 100,000 population)",Health
+WBIN-1291,"Physicians (per 1,000 people)",Health
+WBIN-1292,"Nurses and midwives (per 1,000 people)",Health
+WBIN-1293,"Community health workers (per 1,000 people)",Health
+WBIN-1294,"Hospital beds (per 1,000 people)",Health
+WBIN-1295,"Immunization, measles (% of children ages 12-23 months)",Health
+WBIN-1296,"Immunization, DPT (% of children ages 12-23 months)",Health
+WBIN-1297,"Immunization, HepB3 (% of one-year-old children)",Health
+WBIN-1298,Antiretroviral therapy coverage for PMTCT (% of pregnant women living with HIV),Health
+WBIN-1299,"Incidence of HIV, ages 15-49 (per 1,000 uninfected population ages 15-49)",Health
+WBIN-1300,"Incidence of HIV, ages 15-24 (per 1,000 uninfected population ages 15-24)",Health
+WBIN-1301,Young people (ages 15-24) newly infected with HIV,Health
+WBIN-1302,"Incidence of HIV, all (per 1,000 uninfected population)",Health
+WBIN-1303,Adults (ages 15+) and children (ages 0-14) newly infected with HIV,Health
+WBIN-1304,Children (ages 0-14) newly infected with HIV,Health
+WBIN-1305,Adults (ages 15-49) newly infected with HIV,Health
+WBIN-1306,Antiretroviral therapy coverage (% of people living with HIV),Health
+WBIN-1307,"Prevalence of HIV, male (% ages 15-24)",Health
+WBIN-1308,"Prevalence of HIV, female (% ages 15-24)",Health
+WBIN-1309,Children (0-14) living with HIV,Health
+WBIN-1310,People using safely managed drinking water services (% of population),Health
+WBIN-1311,"People using safely managed drinking water services, urban (% of urban population)",Health
+WBIN-1312,"People using safely managed drinking water services, rural (% of rural population)",Health
+WBIN-1313,People using at least basic drinking water services (% of population),Health
+WBIN-1314,"People using at least basic drinking water services, urban (% of urban population)",Health
+WBIN-1315,"People using at least basic drinking water services, rural (% of rural population)",Health
+WBIN-1316,Demand for family planning satisfied by modern methods (% of married women with demand for family planning),Health
+WBIN-1317,"Mortality rate, neonatal (per 1,000 live births)",Health
+WBIN-1318,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",Health
+WBIN-1319,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70, male (%)",Health
+WBIN-1320,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70, female (%)",Health
+WBIN-1321,"Mortality rate, under-5, male (per 1,000 live births)",Health
+WBIN-1322,"Mortality rate, under-5, female (per 1,000 live births)",Health
+WBIN-1323,"Mortality rate, under-5 (per 1,000 live births)",Health
+WBIN-1324,"Prevalence of HIV, total (% of population ages 15-49)",Health
+WBIN-1325,Women's share of population ages 15+ living with HIV (%),Health
+WBIN-1326,Number of neonatal deaths,Health
+WBIN-1327,"Cause of death, by non-communicable diseases (% of total)",Health
+WBIN-1328,Number of under-five deaths,Health
+WBIN-1329,"Cause of death, by injury (% of total)",Health
+WBIN-1330,Number of infant deaths,Health
+WBIN-1331,"Cause of death, by communicable diseases and maternal, prenatal and nutrition conditions (% of total)",Health
+WBIN-1332,"Condom use, population ages 15-24, male (% of males ages 15-24)",Health
+WBIN-1333,"Condom use, population ages 15-24, female (% of females ages 15-24)",Health
+WBIN-1334,Prevalence of anemia among non-pregnant women (% of women ages 15-49),Health
+WBIN-1335,Prevalence of anemia among children (% of children ages 6-59 months),Health
+WBIN-1336,Prevalence of anemia among women of reproductive age (% of women ages 15-49),Health
+WBIN-1337,"Total alcohol consumption per capita, male (liters of pure alcohol, projected estimates, male 15+ years of age)",Health
+WBIN-1338,"Total alcohol consumption per capita (liters of pure alcohol, projected estimates, 15+ years of age)",Health
+WBIN-1339,"Total alcohol consumption per capita, female (liters of pure alcohol, projected estimates, female 15+ years of age)",Health
+WBIN-1340,Women who believe a husband is justified in beating his wife when she refuses sex with him (%),Health
+WBIN-1341,Women who believe a husband is justified in beating his wife (any of five reasons) (%),Health
+WBIN-1342,Women who believe a husband is justified in beating his wife when she neglects the children (%),Health
+WBIN-1343,Women who believe a husband is justified in beating his wife when she goes out without telling him (%),Health
+WBIN-1344,Women who believe a husband is justified in beating his wife when she burns the food (%),Health
+WBIN-1345,Women who believe a husband is justified in beating his wife when she argues with him (%),Health
+WBIN-1346,Proportion of women subjected to physical and/or sexual violence in the last 12 months (% of ever-partnered women ages 15-49),Health
+WBIN-1347,ICT goods exports (% of total goods exports),Infrastructure
+WBIN-1348,ICT goods imports (% total goods imports),Infrastructure
+WBIN-1349,Individuals using the Internet (% of population),Infrastructure
+WBIN-1350,Secure Internet servers (per 1 million people),Infrastructure
+WBIN-1351,Secure Internet servers,Infrastructure
+WBIN-1352,Fixed broadband subscriptions (per 100 people),Infrastructure
+WBIN-1353,Fixed broadband subscriptions,Infrastructure
+WBIN-1354,Fixed telephone subscriptions (per 100 people),Infrastructure
+WBIN-1355,Fixed telephone subscriptions,Infrastructure
+WBIN-1356,Mobile cellular subscriptions (per 100 people),Infrastructure
+WBIN-1357,Mobile cellular subscriptions,Infrastructure
+WBIN-1358,Container port traffic (TEU: 20 foot equivalent units),Infrastructure
+WBIN-1359,Liner shipping connectivity index (maximum value in 2004 = 100),Infrastructure
+WBIN-1360,Rail lines (total route-km),Infrastructure
+WBIN-1361,"Railways, passengers carried (million passenger-km)",Infrastructure
+WBIN-1362,"Railways, goods transported (million ton-km)",Infrastructure
+WBIN-1363,"Air transport, passengers carried",Infrastructure
+WBIN-1364,"Air transport, freight (million ton-km)",Infrastructure
+WBIN-1365,"Air transport, registered carrier departures worldwide",Infrastructure
+WBIN-1366,"Trademark applications, resident, by count",Infrastructure
+WBIN-1367,"Trademark applications, nonresident, by count",Infrastructure
+WBIN-1368,"Industrial design applications, resident, by count",Infrastructure
+WBIN-1369,"Industrial design applications, nonresident, by count",Infrastructure
+WBIN-1370,Public private partnerships investment in water and sanitation (current US$),Infrastructure
+WBIN-1371,Public private partnerships investment in transport (current US$),Infrastructure
+WBIN-1372,Public private partnerships investment in ICT (current US$),Infrastructure
+WBIN-1373,Public private partnerships investment in energy (current US$),Infrastructure
+WBIN-1374,Investment in water and sanitation with private participation (current US$),Infrastructure
+WBIN-1375,Investment in transport with private participation (current US$),Infrastructure
+WBIN-1376,Investment in ICT with private participation (current US$),Infrastructure
+WBIN-1377,Investment in energy with private participation (current US$),Infrastructure
+WBIN-1378,Renewable internal freshwater resources per capita (cubic meters),Infrastructure
+WBIN-1379,"Renewable internal freshwater resources, total (billion cubic meters)",Infrastructure
+WBIN-1380,"Annual freshwater withdrawals, total (% of internal resources)",Infrastructure
+WBIN-1381,"Annual freshwater withdrawals, total (billion cubic meters)",Infrastructure
+WBIN-1382,"Annual freshwater withdrawals, industry (% of total freshwater withdrawal)",Infrastructure
+WBIN-1383,"Annual freshwater withdrawals, domestic (% of total freshwater withdrawal)",Infrastructure
+WBIN-1384,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",Infrastructure
+WBIN-1385,Electric power consumption (kWh per capita),Infrastructure
+WBIN-1386,Electricity production from oil sources (% of total),Infrastructure
+WBIN-1387,Electricity production from nuclear sources (% of total),Infrastructure
+WBIN-1388,Electricity production from natural gas sources (% of total),Infrastructure
+WBIN-1389,Electric power transmission and distribution losses (% of output),Infrastructure
+WBIN-1390,Electricity production from hydroelectric sources (% of total),Infrastructure
+WBIN-1391,Electricity production from coal sources (% of total),Infrastructure
+WBIN-1392,"ICT service exports (% of service exports, BoP)",Infrastructure
+WBIN-1393,"ICT service exports (BoP, current US$)",Infrastructure
+WBIN-1394,"Annualized average growth rate in per capita real survey mean consumption or income, total population (%)",Poverty
+WBIN-1395,"Survey mean consumption or income per capita, total population (2017 PPP $ per day)",Poverty
+WBIN-1396,"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)",Poverty
+WBIN-1397,"Survey mean consumption or income per capita, bottom 40% of population (2017 PPP $ per day)",Poverty
+WBIN-1398,Poverty gap at $6.85 a day (2017 PPP) (%),Poverty
+WBIN-1399,Poverty headcount ratio at $6.85 a day (2017 PPP) (% of population),Poverty
+WBIN-1400,Poverty headcount ratio at national poverty lines (% of population),Poverty
+WBIN-1401,Multidimensional poverty index (scale 0-1),Poverty
+WBIN-1402,"Multidimensional poverty headcount ratio, male (% of male population)",Poverty
+WBIN-1403,Multidimensional poverty intensity (average share of deprivations experienced by the poor),Poverty
+WBIN-1404,"Multidimensional poverty headcount ratio, household (% of total households)",Poverty
+WBIN-1405,"Multidimensional poverty headcount ratio, female (% of female population)",Poverty
+WBIN-1406,"Multidimensional poverty index, children (population ages 0-17) (scale 0-1)",Poverty
+WBIN-1407,"Multidimensional poverty headcount ratio, children (% of population ages 0-17)",Poverty
+WBIN-1408,Multidimensional poverty headcount ratio (% of total population),Poverty
+WBIN-1409,Poverty gap at $3.65 a day (2017 PPP) (%),Poverty
+WBIN-1410,Poverty headcount ratio at $3.65 a day (2017 PPP) (% of population),Poverty
+WBIN-1411,Gini index,Poverty
+WBIN-1412,Poverty gap at $2.15 a day (2017 PPP) (%),Poverty
+WBIN-1413,Poverty headcount ratio at $2.15 a day (2017 PPP) (% of population),Poverty
+WBIN-1414,Income share held by lowest 20%,Poverty
+WBIN-1415,Income share held by lowest 10%,Poverty
+WBIN-1416,Proportion of people living below 50 percent of median income (%),Poverty
+WBIN-1417,Income share held by highest 10%,Poverty
+WBIN-1418,Income share held by highest 20%,Poverty
+WBIN-1419,Income share held by fourth 20%,Poverty
+WBIN-1420,Income share held by third 20%,Poverty
+WBIN-1421,Income share held by second 20%,Poverty
+WBIN-1422,Population living in slums (% of urban population),Poverty
+WBIN-1423,Travel services (% of commercial service exports),PrivateSector
+WBIN-1424,Transport services (% of commercial service exports),PrivateSector
+WBIN-1425,High-technology exports (% of manufactured exports),PrivateSector
+WBIN-1426,High-technology exports (current US$),PrivateSector
+WBIN-1427,Commercial service exports (current US$),PrivateSector
+WBIN-1428,"Computer, communications and other services (% of commercial service exports)",PrivateSector
+WBIN-1429,Export value index (2015 = 100),PrivateSector
+WBIN-1430,Merchandise exports to low- and middle-income economies within region (% of total merchandise exports),PrivateSector
+WBIN-1431,Merchandise exports by the reporting economy (current US$),PrivateSector
+WBIN-1432,"Merchandise exports by the reporting economy, residual (% of total merchandise exports)",PrivateSector
+WBIN-1433,Merchandise exports to low- and middle-income economies in Sub-Saharan Africa (% of total merchandise exports),PrivateSector
+WBIN-1434,Merchandise exports to low- and middle-income economies in South Asia (% of total merchandise exports),PrivateSector
+WBIN-1435,Merchandise exports to low- and middle-income economies in Middle East & North Africa (% of total merchandise exports),PrivateSector
+WBIN-1436,Merchandise exports to low- and middle-income economies in Latin America & the Caribbean (% of total merchandise exports),PrivateSector
+WBIN-1437,Merchandise exports to low- and middle-income economies in Europe & Central Asia (% of total merchandise exports),PrivateSector
+WBIN-1438,Merchandise exports to low- and middle-income economies in East Asia & Pacific (% of total merchandise exports),PrivateSector
+WBIN-1439,Merchandise exports to low- and middle-income economies outside region (% of total merchandise exports),PrivateSector
+WBIN-1440,Merchandise exports to high-income economies (% of total merchandise exports),PrivateSector
+WBIN-1441,Merchandise exports (current US$),PrivateSector
+WBIN-1442,Merchandise exports to economies in the Arab World (% of total merchandise exports),PrivateSector
+WBIN-1443,Ores and metals exports (% of merchandise exports),PrivateSector
+WBIN-1444,Manufactures exports (% of merchandise exports),PrivateSector
+WBIN-1445,Insurance and financial services (% of commercial service exports),PrivateSector
+WBIN-1446,ICT goods exports (% of total goods exports),PrivateSector
+WBIN-1447,Fuel exports (% of merchandise exports),PrivateSector
+WBIN-1448,Food exports (% of merchandise exports),PrivateSector
+WBIN-1449,Agricultural raw materials exports (% of merchandise exports),PrivateSector
+WBIN-1450,Export unit value index (2015 = 100),PrivateSector
+WBIN-1451,Export volume index (2015 = 100),PrivateSector
+WBIN-1452,Medium and high-tech exports (% manufactured exports),PrivateSector
+WBIN-1453,Net barter terms of trade index (2015 = 100),PrivateSector
+WBIN-1454,Travel services (% of commercial service imports),PrivateSector
+WBIN-1455,Transport services (% of commercial service imports),PrivateSector
+WBIN-1456,Commercial service imports (current US$),PrivateSector
+WBIN-1457,"Computer, communications and other services (% of commercial service imports)",PrivateSector
+WBIN-1458,Import value index (2015 = 100),PrivateSector
+WBIN-1459,Merchandise imports from low- and middle-income economies within region (% of total merchandise imports),PrivateSector
+WBIN-1460,Merchandise imports by the reporting economy (current US$),PrivateSector
+WBIN-1461,"Merchandise imports by the reporting economy, residual (% of total merchandise imports)",PrivateSector
+WBIN-1462,Merchandise imports from low- and middle-income economies in Sub-Saharan Africa (% of total merchandise imports),PrivateSector
+WBIN-1463,Merchandise imports from low- and middle-income economies in South Asia (% of total merchandise imports),PrivateSector
+WBIN-1464,Merchandise imports from low- and middle-income economies in Middle East & North Africa (% of total merchandise imports),PrivateSector
+WBIN-1465,Merchandise imports from low- and middle-income economies in Latin America & the Caribbean (% of total merchandise imports),PrivateSector
+WBIN-1466,Merchandise imports from low- and middle-income economies in Europe & Central Asia (% of total merchandise imports),PrivateSector
+WBIN-1467,Merchandise imports from low- and middle-income economies in East Asia & Pacific (% of total merchandise imports),PrivateSector
+WBIN-1468,Merchandise imports from low- and middle-income economies outside region (% of total merchandise imports),PrivateSector
+WBIN-1469,Merchandise imports from high-income economies (% of total merchandise imports),PrivateSector
+WBIN-1470,Merchandise imports (current US$),PrivateSector
+WBIN-1471,Merchandise imports from economies in the Arab World (% of total merchandise imports),PrivateSector
+WBIN-1472,Ores and metals imports (% of merchandise imports),PrivateSector
+WBIN-1473,Manufactures imports (% of merchandise imports),PrivateSector
+WBIN-1474,Insurance and financial services (% of commercial service imports),PrivateSector
+WBIN-1475,ICT goods imports (% total goods imports),PrivateSector
+WBIN-1476,Fuel imports (% of merchandise imports),PrivateSector
+WBIN-1477,Food imports (% of merchandise imports),PrivateSector
+WBIN-1478,Agricultural raw materials imports (% of merchandise imports),PrivateSector
+WBIN-1479,Import unit value index (2015 = 100),PrivateSector
+WBIN-1480,"Tariff rate, most favored nation, weighted mean, primary products (%)",PrivateSector
+WBIN-1481,"Tariff rate, applied, weighted mean, primary products (%)",PrivateSector
+WBIN-1482,"Share of tariff lines with specific rates, primary products (%)",PrivateSector
+WBIN-1483,"Tariff rate, most favored nation, simple mean, primary products (%)",PrivateSector
+WBIN-1484,"Tariff rate, applied, simple mean, primary products (%)",PrivateSector
+WBIN-1485,"Share of tariff lines with international peaks, primary products (%)",PrivateSector
+WBIN-1486,"Bound rate, simple mean, primary products (%)",PrivateSector
+WBIN-1487,"Binding coverage, primary products (%)",PrivateSector
+WBIN-1488,"Tariff rate, most favored nation, weighted mean, all products (%)",PrivateSector
+WBIN-1489,"Tariff rate, applied, weighted mean, all products (%)",PrivateSector
+WBIN-1490,"Share of tariff lines with specific rates, all products (%)",PrivateSector
+WBIN-1491,"Tariff rate, most favored nation, simple mean, all products (%)",PrivateSector
+WBIN-1492,"Tariff rate, applied, simple mean, all products (%)",PrivateSector
+WBIN-1493,"Share of tariff lines with international peaks, all products (%)",PrivateSector
+WBIN-1494,"Bound rate, simple mean, all products (%)",PrivateSector
+WBIN-1495,"Binding coverage, all products (%)",PrivateSector
+WBIN-1496,"Tariff rate, most favored nation, weighted mean, manufactured products (%)",PrivateSector
+WBIN-1497,"Tariff rate, applied, weighted mean, manufactured products (%)",PrivateSector
+WBIN-1498,"Share of tariff lines with specific rates, manufactured products (%)",PrivateSector
+WBIN-1499,"Tariff rate, most favored nation, simple mean, manufactured products (%)",PrivateSector
+WBIN-1500,"Tariff rate, applied, simple mean, manufactured products (%)",PrivateSector
+WBIN-1501,"Share of tariff lines with international peaks, manufactured products (%)",PrivateSector
+WBIN-1502,"Bound rate, simple mean, manufactured products (%)",PrivateSector
+WBIN-1503,"Binding coverage, manufactured products (%)",PrivateSector
+WBIN-1504,Import volume index (2015 = 100),PrivateSector
+WBIN-1505,Merchandise trade (% of GDP),PrivateSector
+WBIN-1506,"International tourism, expenditures (% of total imports)",PrivateSector
+WBIN-1507,"International tourism, expenditures (current US$)",PrivateSector
+WBIN-1508,"International tourism, expenditures for travel items (current US$)",PrivateSector
+WBIN-1509,"International tourism, receipts for travel items (current US$)",PrivateSector
+WBIN-1510,"International tourism, expenditures for passenger transport items (current US$)",PrivateSector
+WBIN-1511,"International tourism, receipts for passenger transport items (current US$)",PrivateSector
+WBIN-1512,"International tourism, receipts (% of total exports)",PrivateSector
+WBIN-1513,"International tourism, receipts (current US$)",PrivateSector
+WBIN-1514,"International tourism, number of departures",PrivateSector
+WBIN-1515,"International tourism, number of arrivals",PrivateSector
+WBIN-1516,Logistics performance index: Ability to track and trace consignments (1=low to 5=high),PrivateSector
+WBIN-1517,Logistics performance index: Frequency with which shipments reach consignee within scheduled or expected time (1=low to 5=high),PrivateSector
+WBIN-1518,Logistics performance index: Overall (1=low to 5=high),PrivateSector
+WBIN-1519,Logistics performance index: Competence and quality of logistics services (1=low to 5=high),PrivateSector
+WBIN-1520,Logistics performance index: Ease of arranging competitively priced shipments (1=low to 5=high),PrivateSector
+WBIN-1521,Logistics performance index: Quality of trade and transport-related infrastructure (1=low to 5=high),PrivateSector
+WBIN-1522,Logistics performance index: Efficiency of customs clearance process (1=low to 5=high),PrivateSector
+WBIN-1523,"Lead time to import, median case (days)",PrivateSector
+WBIN-1524,"Lead time to export, median case (days)",PrivateSector
+WBIN-1525,Investment in water and sanitation with private participation (current US$),PrivateSector
+WBIN-1526,Investment in transport with private participation (current US$),PrivateSector
+WBIN-1527,Investment in energy with private participation (current US$),PrivateSector
+WBIN-1528,Procedures to build a warehouse (number),PrivateSector
+WBIN-1529,Time required to build a warehouse (days),PrivateSector
+WBIN-1530,Total tax and contribution rate (% of profit),PrivateSector
+WBIN-1531,Profit tax (% of commercial profits),PrivateSector
+WBIN-1532,Tax payments (number),PrivateSector
+WBIN-1533,Other taxes payable by businesses (% of commercial profits),PrivateSector
+WBIN-1534,Number of visits or required meetings with tax officials (average for affected firms),PrivateSector
+WBIN-1535,Labor tax and contributions (% of commercial profits),PrivateSector
+WBIN-1536,Firms expected to give gifts in meetings with tax officials (% of firms),PrivateSector
+WBIN-1537,Time to prepare and pay taxes (hours),PrivateSector
+WBIN-1538,"Start-up procedures to register a business, male (number)",PrivateSector
+WBIN-1539,"Start-up procedures to register a business, female (number)",PrivateSector
+WBIN-1540,Start-up procedures to register a business (number),PrivateSector
+WBIN-1541,"Time required to start a business, male (days)",PrivateSector
+WBIN-1542,"Time required to start a business, female (days)",PrivateSector
+WBIN-1543,Time required to start a business (days),PrivateSector
+WBIN-1544,Cost of business start-up procedures (% of GNI per capita),PrivateSector
+WBIN-1545,"Cost of business start-up procedures, male (% of GNI per capita)",PrivateSector
+WBIN-1546,"Cost of business start-up procedures, female (% of GNI per capita)",PrivateSector
+WBIN-1547,Procedures to register property (number),PrivateSector
+WBIN-1548,Time required to register property (days),PrivateSector
+WBIN-1549,Time required to enforce a contract (days),PrivateSector
+WBIN-1550,Strength of legal rights index (0=weak to 12=strong),PrivateSector
+WBIN-1551,Time to resolve insolvency (years),PrivateSector
+WBIN-1552,"Time to import, documentary compliance (hours)",PrivateSector
+WBIN-1553,"Time to import, border compliance (hours)",PrivateSector
+WBIN-1554,"Cost to import, documentary compliance (US$)",PrivateSector
+WBIN-1555,"Cost to import, border compliance (US$)",PrivateSector
+WBIN-1556,Time spent dealing with the requirements of government regulations (% of senior management time),PrivateSector
+WBIN-1557,Firms offering formal training (% of firms),PrivateSector
+WBIN-1558,Firms experiencing losses due to theft and vandalism (% of firms),PrivateSector
+WBIN-1559,Firms that spend on R&D (% of firms),PrivateSector
+WBIN-1560,Value lost due to electrical outages (% of sales for affected firms),PrivateSector
+WBIN-1561,Firms visited or required meetings with tax officials (% of firms),PrivateSector
+WBIN-1562,Firms that do not report all sales for tax purposes (% of firms),PrivateSector
+WBIN-1563,Firms formally registered when operations started (% of firms),PrivateSector
+WBIN-1564,Firms with female participation in ownership (% of firms),PrivateSector
+WBIN-1565,Firms with female top manager (% of firms),PrivateSector
+WBIN-1566,Time required to obtain an operating license (days),PrivateSector
+WBIN-1567,Losses due to theft and vandalism (% of annual sales for affected firms),PrivateSector
+WBIN-1568,Informal payments to public officials (% of firms),PrivateSector
+WBIN-1569,Firms competing against unregistered firms (% of firms),PrivateSector
+WBIN-1570,Bribery incidence (% of firms experiencing at least one bribe payment request),PrivateSector
+WBIN-1571,Firms using banks to finance investment (% of firms),PrivateSector
+WBIN-1572,Firms using banks to finance working capital (% of firms),PrivateSector
+WBIN-1573,"Time to export, documentary compliance (hours)",PrivateSector
+WBIN-1574,"Time to export, border compliance (hours)",PrivateSector
+WBIN-1575,"Cost to export, documentary compliance (US$)",PrivateSector
+WBIN-1576,"Cost to export, border compliance (US$)",PrivateSector
+WBIN-1577,Time required to get electricity (days),PrivateSector
+WBIN-1578,Firms experiencing electrical outages (% of firms),PrivateSector
+WBIN-1579,Power outages in firms in a typical month (number),PrivateSector
+WBIN-1580,Time to obtain an electrical connection (days),PrivateSector
+WBIN-1581,Average time to clear exports through customs (days),PrivateSector
+WBIN-1582,Public credit registry coverage (% of adults),PrivateSector
+WBIN-1583,Private credit bureau coverage (% of adults),PrivateSector
+WBIN-1584,Depth of credit information index (0=low to 8=high),PrivateSector
+WBIN-1585,New businesses registered (number),PrivateSector
+WBIN-1586,"New business density (new registrations per 1,000 people ages 15-64)",PrivateSector
+WBIN-1587,Ease of doing business rank (1=most business-friendly regulations),PrivateSector
+WBIN-1588,Business extent of disclosure index (0=less disclosure to 10=more disclosure),PrivateSector
+WBIN-1589,Ease of doing business score (0 = lowest performance to 100 = best performance),PrivateSector
+WBIN-1590,Domestic credit to private sector (% of GDP),PrivateSector
+WBIN-1591,"Insurance and financial services (% of service exports, BoP)",PrivateSector
+WBIN-1592,"Insurance and financial services (% of service imports, BoP)",PrivateSector
+WBIN-1593,Trade in services (% of GDP),PrivateSector
+WBIN-1594,"Intentional homicides (per 100,000 people)",PublicSector
+WBIN-1595,"Intentional homicides, male (per 100,000 male)",PublicSector
+WBIN-1596,"Intentional homicides, female (per 100,000 female)",PublicSector
+WBIN-1597,"Internally displaced persons, total displaced by conflict and violence (number of people)",PublicSector
+WBIN-1598,"Internally displaced persons, new displacement associated with disasters (number of cases)",PublicSector
+WBIN-1599,"Internally displaced persons, new displacement associated with conflict and violence (number of cases)",PublicSector
+WBIN-1600,Battle-related deaths (number of people),PublicSector
+WBIN-1601,Voice and Accountability: Standard Error,PublicSector
+WBIN-1602,"Voice and Accountability: Percentile Rank, Upper Bound of 90% Confidence Interval",PublicSector
+WBIN-1603,"Voice and Accountability: Percentile Rank, Lower Bound of 90% Confidence Interval",PublicSector
+WBIN-1604,Voice and Accountability: Percentile Rank,PublicSector
+WBIN-1605,Voice and Accountability: Number of Sources,PublicSector
+WBIN-1606,Voice and Accountability: Estimate,PublicSector
+WBIN-1607,Proportion of seats held by women in national parliaments (%),PublicSector
+WBIN-1608,Regulatory Quality: Standard Error,PublicSector
+WBIN-1609,"Regulatory Quality: Percentile Rank, Upper Bound of 90% Confidence Interval",PublicSector
+WBIN-1610,"Regulatory Quality: Percentile Rank, Lower Bound of 90% Confidence Interval",PublicSector
+WBIN-1611,Regulatory Quality: Percentile Rank,PublicSector
+WBIN-1612,Regulatory Quality: Number of Sources,PublicSector
+WBIN-1613,Regulatory Quality: Estimate,PublicSector
+WBIN-1614,Rule of Law: Standard Error,PublicSector
+WBIN-1615,"Rule of Law: Percentile Rank, Upper Bound of 90% Confidence Interval",PublicSector
+WBIN-1616,"Rule of Law: Percentile Rank, Lower Bound of 90% Confidence Interval",PublicSector
+WBIN-1617,Rule of Law: Percentile Rank,PublicSector
+WBIN-1618,Rule of Law: Number of Sources,PublicSector
+WBIN-1619,Rule of Law: Estimate,PublicSector
+WBIN-1620,Political Stability and Absence of Violence/Terrorism: Standard Error,PublicSector
+WBIN-1621,"Political Stability and Absence of Violence/Terrorism: Percentile Rank, Upper Bound of 90% Confidence Interval",PublicSector
+WBIN-1622,"Political Stability and Absence of Violence/Terrorism: Percentile Rank, Lower Bound of 90% Confidence Interval",PublicSector
+WBIN-1623,Political Stability and Absence of Violence/Terrorism: Percentile Rank,PublicSector
+WBIN-1624,Political Stability and Absence of Violence/Terrorism: Number of Sources,PublicSector
+WBIN-1625,Political Stability and Absence of Violence/Terrorism: Estimate,PublicSector
+WBIN-1626,Arms exports (SIPRI trend indicator values),PublicSector
+WBIN-1627,Military expenditure (% of general government expenditure),PublicSector
+WBIN-1628,Military expenditure (% of GDP),PublicSector
+WBIN-1629,Military expenditure (current LCU),PublicSector
+WBIN-1630,Military expenditure (current USD),PublicSector
+WBIN-1631,Armed forces personnel (% of total labor force),PublicSector
+WBIN-1632,"Armed forces personnel, total",PublicSector
+WBIN-1633,Arms imports (SIPRI trend indicator values),PublicSector
+WBIN-1634,Statistical performance indicators (SPI): Pillar 5 data infrastructure score (scale 0-100),PublicSector
+WBIN-1635,Statistical performance indicators (SPI): Pillar 4 data sources score (scale 0-100),PublicSector
+WBIN-1636,Statistical performance indicators (SPI): Pillar 3 data products score  (scale 0-100),PublicSector
+WBIN-1637,Statistical performance indicators (SPI): Pillar 2 data services score (scale 0-100),PublicSector
+WBIN-1638,Statistical performance indicators (SPI): Pillar 1 data use score (scale 0-100),PublicSector
+WBIN-1639,Statistical performance indicators (SPI): Overall score (scale 0-100),PublicSector
+WBIN-1640,Source data assessment of statistical capacity (scale 0 - 100),PublicSector
+WBIN-1641,Periodicity and timeliness assessment of statistical capacity (scale 0 - 100),PublicSector
+WBIN-1642,Statistical Capacity Score (Overall Average) (scale 0 - 100),PublicSector
+WBIN-1643,Methodology assessment of statistical capacity (scale 0 - 100),PublicSector
+WBIN-1644,"CPIA transparency, accountability, and corruption in the public sector rating (1=low to 6=high)",PublicSector
+WBIN-1645,CPIA trade rating (1=low to 6=high),PublicSector
+WBIN-1646,CPIA structural policies cluster average (1=low to 6=high),PublicSector
+WBIN-1647,CPIA policies for social inclusion/equity cluster average (1=low to 6=high),PublicSector
+WBIN-1648,CPIA efficiency of revenue mobilization rating (1=low to 6=high),PublicSector
+WBIN-1649,CPIA public sector management and institutions cluster average (1=low to 6=high),PublicSector
+WBIN-1650,CPIA social protection rating (1=low to 6=high),PublicSector
+WBIN-1651,CPIA property rights and rule-based governance rating (1=low to 6=high),PublicSector
+WBIN-1652,CPIA equity of public resource use rating (1=low to 6=high),PublicSector
+WBIN-1653,CPIA quality of public administration rating (1=low to 6=high),PublicSector
+WBIN-1654,CPIA macroeconomic management rating (1=low to 6=high),PublicSector
+WBIN-1655,IDA resource allocation index (1=low to 6=high),PublicSector
+WBIN-1656,CPIA building human resources rating (1=low to 6=high),PublicSector
+WBIN-1657,CPIA gender equality rating (1=low to 6=high),PublicSector
+WBIN-1658,CPIA fiscal policy rating (1=low to 6=high),PublicSector
+WBIN-1659,CPIA financial sector rating (1=low to 6=high),PublicSector
+WBIN-1660,CPIA quality of budgetary and financial management rating (1=low to 6=high),PublicSector
+WBIN-1661,CPIA policy and institutions for environmental sustainability rating (1=low to 6=high),PublicSector
+WBIN-1662,CPIA economic management cluster average (1=low to 6=high),PublicSector
+WBIN-1663,CPIA debt policy rating (1=low to 6=high),PublicSector
+WBIN-1664,CPIA business regulatory environment rating (1=low to 6=high),PublicSector
+WBIN-1665,Total tax and contribution rate (% of profit),PublicSector
+WBIN-1666,Tax payments (number),PublicSector
+WBIN-1667,Time to prepare and pay taxes (hours),PublicSector
+WBIN-1668,Strength of legal rights index (0=weak to 12=strong),PublicSector
+WBIN-1669,Public credit registry coverage (% of adults),PublicSector
+WBIN-1670,"Human capital index (HCI), male, upper bound (scale 0-1)",PublicSector
+WBIN-1671,"Human capital index (HCI), female, upper bound (scale 0-1)",PublicSector
+WBIN-1672,"Human capital index (HCI), upper bound (scale 0-1)",PublicSector
+WBIN-1673,"Human capital index (HCI), male (scale 0-1)",PublicSector
+WBIN-1674,"Human capital index (HCI), male, lower bound (scale 0-1)",PublicSector
+WBIN-1675,"Human capital index (HCI), female, lower bound (scale 0-1)",PublicSector
+WBIN-1676,"Human capital index (HCI), lower bound (scale 0-1)",PublicSector
+WBIN-1677,"Human capital index (HCI), female (scale 0-1)",PublicSector
+WBIN-1678,Human capital index (HCI) (scale 0-1),PublicSector
+WBIN-1679,Primary government expenditures as a proportion of original approved budget (%),PublicSector
+WBIN-1680,Government Effectiveness: Standard Error,PublicSector
+WBIN-1681,"Government Effectiveness: Percentile Rank, Upper Bound of 90% Confidence Interval",PublicSector
+WBIN-1682,"Government Effectiveness: Percentile Rank, Lower Bound of 90% Confidence Interval",PublicSector
+WBIN-1683,Government Effectiveness: Percentile Rank,PublicSector
+WBIN-1684,Government Effectiveness: Number of Sources,PublicSector
+WBIN-1685,Government Effectiveness: Estimate,PublicSector
+WBIN-1686,Subsidies and other transfers (% of expense),PublicSector
+WBIN-1687,Subsidies and other transfers (current LCU),PublicSector
+WBIN-1688,Expense (% of GDP),PublicSector
+WBIN-1689,Expense (current LCU),PublicSector
+WBIN-1690,Other expense (% of expense),PublicSector
+WBIN-1691,Other expense (current LCU),PublicSector
+WBIN-1692,Interest payments (% of expense),PublicSector
+WBIN-1693,Interest payments (% of revenue),PublicSector
+WBIN-1694,Interest payments (current LCU),PublicSector
+WBIN-1695,Goods and services expense (% of expense),PublicSector
+WBIN-1696,Goods and services expense (current LCU),PublicSector
+WBIN-1697,Compensation of employees (% of expense),PublicSector
+WBIN-1698,Compensation of employees (current LCU),PublicSector
+WBIN-1699,"Taxes on income, profits and capital gains (% of total taxes)",PublicSector
+WBIN-1700,"Taxes on income, profits and capital gains (% of revenue)",PublicSector
+WBIN-1701,"Taxes on income, profits and capital gains (current LCU)",PublicSector
+WBIN-1702,Tax revenue (% of GDP),PublicSector
+WBIN-1703,Tax revenue (current LCU),PublicSector
+WBIN-1704,Other taxes (% of revenue),PublicSector
+WBIN-1705,Other taxes (current LCU),PublicSector
+WBIN-1706,Taxes on international trade (% of revenue),PublicSector
+WBIN-1707,Taxes on international trade (current LCU),PublicSector
+WBIN-1708,Customs and other import duties (% of tax revenue),PublicSector
+WBIN-1709,Customs and other import duties (current LCU),PublicSector
+WBIN-1710,Taxes on goods and services (% value added of industry and services),PublicSector
+WBIN-1711,Taxes on goods and services (% of revenue),PublicSector
+WBIN-1712,Taxes on goods and services (current LCU),PublicSector
+WBIN-1713,Taxes on exports (% of tax revenue),PublicSector
+WBIN-1714,Taxes on exports (current LCU),PublicSector
+WBIN-1715,"Revenue, excluding grants (% of GDP)",PublicSector
+WBIN-1716,"Revenue, excluding grants (current LCU)",PublicSector
+WBIN-1717,Social contributions (% of revenue),PublicSector
+WBIN-1718,Social contributions (current LCU),PublicSector
+WBIN-1719,Grants and other revenue (% of revenue),PublicSector
+WBIN-1720,Grants and other revenue (current LCU),PublicSector
+WBIN-1721,Net lending (+) / net borrowing (-) (% of GDP),PublicSector
+WBIN-1722,Net lending (+) / net borrowing (-) (current LCU),PublicSector
+WBIN-1723,Net investment in nonfinancial assets (% of GDP),PublicSector
+WBIN-1724,Net investment in nonfinancial assets (current LCU),PublicSector
+WBIN-1725,"Net incurrence of liabilities, total (% of GDP)",PublicSector
+WBIN-1726,"Net incurrence of liabilities, total (current LCU)",PublicSector
+WBIN-1727,"Central government debt, total (% of GDP)",PublicSector
+WBIN-1728,"Central government debt, total (current LCU)",PublicSector
+WBIN-1729,Net acquisition of financial assets (% of GDP),PublicSector
+WBIN-1730,Net acquisition of financial assets (current LCU),PublicSector
+WBIN-1731,Control of Corruption: Standard Error,PublicSector
+WBIN-1732,"Control of Corruption: Percentile Rank, Upper Bound of 90% Confidence Interval",PublicSector
+WBIN-1733,"Control of Corruption: Percentile Rank, Lower Bound of 90% Confidence Interval",PublicSector
+WBIN-1734,Control of Corruption: Percentile Rank,PublicSector
+WBIN-1735,Control of Corruption: Number of Sources,PublicSector
+WBIN-1736,Control of Corruption: Estimate,PublicSector
+WBIN-1737,High-technology exports (% of manufactured exports),ScienceAndTechnology
+WBIN-1738,High-technology exports (current US$),ScienceAndTechnology
+WBIN-1739,Technicians in R&D (per million people),ScienceAndTechnology
+WBIN-1740,Researchers in R&D (per million people),ScienceAndTechnology
+WBIN-1741,"Patent applications, residents",ScienceAndTechnology
+WBIN-1742,"Patent applications, nonresidents",ScienceAndTechnology
+WBIN-1743,Scientific and technical journal articles,ScienceAndTechnology
+WBIN-1744,Research and development expenditure (% of GDP),ScienceAndTechnology
+WBIN-1745,"Charges for the use of intellectual property, receipts (BoP, current US$)",ScienceAndTechnology
+WBIN-1746,"Charges for the use of intellectual property, payments (BoP, current US$)",ScienceAndTechnology
+WBIN-1747,"Life expectancy at birth, male (years)",SocialDevelopment
+WBIN-1748,"Life expectancy at birth, female (years)",SocialDevelopment
+WBIN-1749,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SocialDevelopment
+WBIN-1750,Refugee population by country or territory of origin,SocialDevelopment
+WBIN-1751,Refugee population by country or territory of asylum,SocialDevelopment
+WBIN-1752,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SocialDevelopment
+WBIN-1753,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SocialDevelopment
+WBIN-1754,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SocialDevelopment
+WBIN-1755,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SocialDevelopment
+WBIN-1756,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SocialDevelopment
+WBIN-1757,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SocialDevelopment
+WBIN-1758,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SocialDevelopment
+WBIN-1759,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SocialDevelopment
+WBIN-1760,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SocialDevelopment
+WBIN-1761,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SocialDevelopment
+WBIN-1762,"Children in employment, total (% of children ages 7-14)",SocialDevelopment
+WBIN-1763,"Children in employment, work only (% of children in employment, ages 7-14)",SocialDevelopment
+WBIN-1764,"Children in employment, work only, male (% of male children in employment, ages 7-14)",SocialDevelopment
+WBIN-1765,"Children in employment, work only, female (% of female children in employment, ages 7-14)",SocialDevelopment
+WBIN-1766,"Children in employment, study and work (% of children in employment, ages 7-14)",SocialDevelopment
+WBIN-1767,"Children in employment, study and work, male (% of male children in employment, ages 7-14)",SocialDevelopment
+WBIN-1768,"Children in employment, study and work, female (% of female children in employment, ages 7-14)",SocialDevelopment
+WBIN-1769,"Children in employment, male (% of male children ages 7-14)",SocialDevelopment
+WBIN-1770,"Children in employment, female (% of female children ages 7-14)",SocialDevelopment
+WBIN-1771,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SocialDevelopment
+WBIN-1772,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SocialDevelopment
+WBIN-1773,"Prevalence of HIV, male (% ages 15-24)",SocialDevelopment
+WBIN-1774,"Prevalence of HIV, female (% ages 15-24)",SocialDevelopment
+WBIN-1775,Proportion of seats held by women in national parliaments (%),SocialDevelopment
+WBIN-1776,"School enrollment, tertiary (gross), gender parity index (GPI)",SocialDevelopment
+WBIN-1777,"School enrollment, secondary (gross), gender parity index (GPI)",SocialDevelopment
+WBIN-1778,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SocialDevelopment
+WBIN-1779,"School enrollment, primary (gross), gender parity index (GPI)",SocialDevelopment
+WBIN-1780,"Literacy rate, youth (ages 15-24), gender parity index (GPI)",SocialDevelopment
+WBIN-1781,"Children in employment, wage workers (% of children in employment, ages 7-14)",SocialProtectionAndLabor
+WBIN-1782,"Children in employment, wage workers, male (% of male children in employment, ages 7-14)",SocialProtectionAndLabor
+WBIN-1783,"Children in employment, wage workers, female (% of female children in employment, ages 7-14)",SocialProtectionAndLabor
+WBIN-1784,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SocialProtectionAndLabor
+WBIN-1785,"Unemployment, total (% of total labor force) (national estimate)",SocialProtectionAndLabor
+WBIN-1786,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SocialProtectionAndLabor
+WBIN-1787,"Unemployment, male (% of male labor force) (national estimate)",SocialProtectionAndLabor
+WBIN-1788,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SocialProtectionAndLabor
+WBIN-1789,"Unemployment, female (% of female labor force) (national estimate)",SocialProtectionAndLabor
+WBIN-1790,"Share of youth not in education, employment or training, total (% of youth population)",SocialProtectionAndLabor
+WBIN-1791,"Share of youth not in education, employment or training, male (% of male youth population)",SocialProtectionAndLabor
+WBIN-1792,"Share of youth not in education, employment or training, female (% of female youth population)",SocialProtectionAndLabor
+WBIN-1793,Unemployment with intermediate education (% of total labor force with intermediate education),SocialProtectionAndLabor
+WBIN-1794,"Unemployment with intermediate education, male (% of male labor force with intermediate education)",SocialProtectionAndLabor
+WBIN-1795,"Unemployment with intermediate education, female (% of female labor force with intermediate education)",SocialProtectionAndLabor
+WBIN-1796,Unemployment with basic education (% of total labor force with basic education),SocialProtectionAndLabor
+WBIN-1797,"Unemployment with basic education, male (% of male labor force with basic education)",SocialProtectionAndLabor
+WBIN-1798,"Unemployment with basic education, female (% of female labor force with basic education)",SocialProtectionAndLabor
+WBIN-1799,Unemployment with advanced education (% of total labor force with advanced education),SocialProtectionAndLabor
+WBIN-1800,"Unemployment with advanced education, male (% of male labor force with advanced education)",SocialProtectionAndLabor
+WBIN-1801,"Unemployment with advanced education, female (% of female labor force with advanced education)",SocialProtectionAndLabor
+WBIN-1802,"Unemployment, youth total (% of total labor force ages 15-24) (modeled ILO estimate)",SocialProtectionAndLabor
+WBIN-1803,"Unemployment, youth total (% of total labor force ages 15-24) (national estimate)",SocialProtectionAndLabor
+WBIN-1804,"Unemployment, youth male (% of male labor force ages 15-24) (modeled ILO estimate)",SocialProtectionAndLabor
+WBIN-1805,"Unemployment, youth male (% of male labor force ages 15-24) (national estimate)",SocialProtectionAndLabor
+WBIN-1806,"Unemployment, youth female (% of female labor force ages 15-24) (modeled ILO estimate)",SocialProtectionAndLabor
+WBIN-1807,"Unemployment, youth female (% of female labor force ages 15-24) (national estimate)",SocialProtectionAndLabor
+WBIN-1808,"Labor force, total",SocialProtectionAndLabor
+WBIN-1809,"Labor force, female (% of total labor force)",SocialProtectionAndLabor
+WBIN-1810,"Part time employment, total (% of total employment)",SocialProtectionAndLabor
+WBIN-1811,"Part time employment, male (% of total male employment)",SocialProtectionAndLabor
+WBIN-1812,"Part time employment, female (% of total female employment)",SocialProtectionAndLabor
+WBIN-1813,Labor force with intermediate education (% of total working-age population with intermediate education),SocialProtectionAndLabor
+WBIN-1814,"Labor force with intermediate education, male (% of male working-age population with intermediate education)",SocialProtectionAndLabor
+WBIN-1815,"Labor force with intermediate education, female (% of female working-age population with intermediate education)",SocialProtectionAndLabor
+WBIN-1816,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",SocialProtectionAndLabor
+WBIN-1817,"Labor force participation rate, total (% of total population ages 15+) (national estimate)",SocialProtectionAndLabor
+WBIN-1818,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SocialProtectionAndLabor
+WBIN-1819,"Labor force participation rate, male (% of male population ages 15+) (national estimate)",SocialProtectionAndLabor
+WBIN-1820,Ratio of female to male labor force participation rate (%) (modeled ILO estimate),SocialProtectionAndLabor
+WBIN-1821,Ratio of female to male labor force participation rate (%) (national estimate),SocialProtectionAndLabor
+WBIN-1822,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SocialProtectionAndLabor
+WBIN-1823,"Labor force participation rate, female (% of female population ages 15+) (national estimate)",SocialProtectionAndLabor
+WBIN-1824,Labor force with basic education (% of total working-age population with basic education),SocialProtectionAndLabor
+WBIN-1825,"Labor force with basic education, male (% of male working-age population with basic education)",SocialProtectionAndLabor
+WBIN-1826,"Labor force with basic education, female (% of female working-age population with basic education)",SocialProtectionAndLabor
+WBIN-1827,Labor force with advanced education (% of total working-age population with advanced education),SocialProtectionAndLabor
+WBIN-1828,"Labor force with advanced education, male (% of male working-age population with advanced education)",SocialProtectionAndLabor
+WBIN-1829,"Labor force with advanced education, female (% of female working-age population with advanced education)",SocialProtectionAndLabor
+WBIN-1830,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SocialProtectionAndLabor
+WBIN-1831,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SocialProtectionAndLabor
+WBIN-1832,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SocialProtectionAndLabor
+WBIN-1833,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SocialProtectionAndLabor
+WBIN-1834,"Labor force participation rate for ages 15-24, total (%) (national estimate)",SocialProtectionAndLabor
+WBIN-1835,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SocialProtectionAndLabor
+WBIN-1836,"Labor force participation rate for ages 15-24, male (%) (national estimate)",SocialProtectionAndLabor
+WBIN-1837,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SocialProtectionAndLabor
+WBIN-1838,"Labor force participation rate for ages 15-24, female (%) (national estimate)",SocialProtectionAndLabor
+WBIN-1839,"Children in employment, total (% of children ages 7-14)",SocialProtectionAndLabor
+WBIN-1840,"Children in employment, work only (% of children in employment, ages 7-14)",SocialProtectionAndLabor
+WBIN-1841,"Average working hours of children, working only, ages 7-14 (hours per week)",SocialProtectionAndLabor
+WBIN-1842,"Children in employment, work only, male (% of male children in employment, ages 7-14)",SocialProtectionAndLabor
+WBIN-1843,"Average working hours of children, working only, male, ages 7-14 (hours per week)",SocialProtectionAndLabor
+WBIN-1844,"Children in employment, work only, female (% of female children in employment, ages 7-14)",SocialProtectionAndLabor
+WBIN-1845,"Average working hours of children, working only, female, ages 7-14 (hours per week)",SocialProtectionAndLabor
+WBIN-1846,"Children in employment, study and work (% of children in employment, ages 7-14)",SocialProtectionAndLabor
+WBIN-1847,"Average working hours of children, study and work, ages 7-14 (hours per week)",SocialProtectionAndLabor
+WBIN-1848,"Children in employment, study and work, male (% of male children in employment, ages 7-14)",SocialProtectionAndLabor
+WBIN-1849,"Average working hours of children, study and work, male, ages 7-14 (hours per week)",SocialProtectionAndLabor
+WBIN-1850,"Children in employment, study and work, female (% of female children in employment, ages 7-14)",SocialProtectionAndLabor
+WBIN-1851,"Average working hours of children, study and work, female, ages 7-14 (hours per week)",SocialProtectionAndLabor
+WBIN-1852,"Children in employment, male (% of male children ages 7-14)",SocialProtectionAndLabor
+WBIN-1853,"Children in employment, female (% of female children ages 7-14)",SocialProtectionAndLabor
+WBIN-1854,Employment in services (% of total employment) (modeled ILO estimate),SocialProtectionAndLabor
+WBIN-1855,"Employment in services, male (% of male employment) (modeled ILO estimate)",SocialProtectionAndLabor
+WBIN-1856,"Employment in services, female (% of female employment) (modeled ILO estimate)",SocialProtectionAndLabor
+WBIN-1857,Child employment in services (% of economically active children ages 7-14),SocialProtectionAndLabor
+WBIN-1858,"Child employment in services, male (% of male economically active children ages 7-14)",SocialProtectionAndLabor
+WBIN-1859,"Child employment in services, female (% of female economically active children ages 7-14)",SocialProtectionAndLabor
+WBIN-1860,"Children in employment, self-employed (% of children in employment, ages 7-14)",SocialProtectionAndLabor
+WBIN-1861,"Children in employment, self-employed, male (% of male children in employment, ages 7-14)",SocialProtectionAndLabor
+WBIN-1862,"Children in employment, self-employed, female (% of female children in employment, ages 7-14)",SocialProtectionAndLabor
+WBIN-1863,Child employment in manufacturing (% of economically active children ages 7-14),SocialProtectionAndLabor
+WBIN-1864,"Child employment in manufacturing, male (% of male economically active children ages 7-14)",SocialProtectionAndLabor
+WBIN-1865,"Child employment in manufacturing, female (% of female economically active children ages 7-14)",SocialProtectionAndLabor
+WBIN-1866,Employment in industry (% of total employment) (modeled ILO estimate),SocialProtectionAndLabor
+WBIN-1867,"Employment in industry, male (% of male employment) (modeled ILO estimate)",SocialProtectionAndLabor
+WBIN-1868,"Employment in industry, female (% of female employment) (modeled ILO estimate)",SocialProtectionAndLabor
+WBIN-1869,GDP per person employed (constant 2017 PPP $),SocialProtectionAndLabor
+WBIN-1870,"Contributing family workers, total (% of total employment) (modeled ILO estimate)",SocialProtectionAndLabor
+WBIN-1871,"Contributing family workers, male (% of male employment) (modeled ILO estimate)",SocialProtectionAndLabor
+WBIN-1872,"Contributing family workers, female (% of female employment) (modeled ILO estimate)",SocialProtectionAndLabor
+WBIN-1873,"Children in employment, unpaid family workers (% of children in employment, ages 7-14)",SocialProtectionAndLabor
+WBIN-1874,"Children in employment, unpaid family workers, male (% of male children in employment, ages 7-14)",SocialProtectionAndLabor
+WBIN-1875,"Children in employment, unpaid family workers, female (% of female children in employment, ages 7-14)",SocialProtectionAndLabor
+WBIN-1876,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SocialProtectionAndLabor
+WBIN-1877,"Wage and salaried workers, male (% of male employment) (modeled ILO estimate)",SocialProtectionAndLabor
+WBIN-1878,"Wage and salaried workers, female (% of female employment) (modeled ILO estimate)",SocialProtectionAndLabor
+WBIN-1879,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SocialProtectionAndLabor
+WBIN-1880,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SocialProtectionAndLabor
+WBIN-1881,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SocialProtectionAndLabor
+WBIN-1882,"Employment to population ratio, 15+, total (%) (modeled ILO estimate)",SocialProtectionAndLabor
+WBIN-1883,"Employment to population ratio, 15+, total (%) (national estimate)",SocialProtectionAndLabor
+WBIN-1884,"Employment to population ratio, 15+, male (%) (modeled ILO estimate)",SocialProtectionAndLabor
+WBIN-1885,"Employment to population ratio, 15+, male (%) (national estimate)",SocialProtectionAndLabor
+WBIN-1886,"Employment to population ratio, 15+, female (%) (modeled ILO estimate)",SocialProtectionAndLabor
+WBIN-1887,"Employment to population ratio, 15+, female (%) (national estimate)",SocialProtectionAndLabor
+WBIN-1888,Female share of employment in senior and middle management (%),SocialProtectionAndLabor
+WBIN-1889,"Self-employed, total (% of total employment) (modeled ILO estimate)",SocialProtectionAndLabor
+WBIN-1890,"Self-employed, male (% of male employment) (modeled ILO estimate)",SocialProtectionAndLabor
+WBIN-1891,"Self-employed, female (% of female employment) (modeled ILO estimate)",SocialProtectionAndLabor
+WBIN-1892,Travel services (% of commercial service exports),Trade
+WBIN-1893,Transport services (% of commercial service exports),Trade
+WBIN-1894,High-technology exports (% of manufactured exports),Trade
+WBIN-1895,High-technology exports (current US$),Trade
+WBIN-1896,Commercial service exports (current US$),Trade
+WBIN-1897,"Computer, communications and other services (% of commercial service exports)",Trade
+WBIN-1898,Export value index (2015 = 100),Trade
+WBIN-1899,Merchandise exports to low- and middle-income economies within region (% of total merchandise exports),Trade
+WBIN-1900,Merchandise exports by the reporting economy (current US$),Trade
+WBIN-1901,"Merchandise exports by the reporting economy, residual (% of total merchandise exports)",Trade
+WBIN-1902,Merchandise exports to low- and middle-income economies in Sub-Saharan Africa (% of total merchandise exports),Trade
+WBIN-1903,Merchandise exports to low- and middle-income economies in South Asia (% of total merchandise exports),Trade
+WBIN-1904,Merchandise exports to low- and middle-income economies in Middle East & North Africa (% of total merchandise exports),Trade
+WBIN-1905,Merchandise exports to low- and middle-income economies in Latin America & the Caribbean (% of total merchandise exports),Trade
+WBIN-1906,Merchandise exports to low- and middle-income economies in Europe & Central Asia (% of total merchandise exports),Trade
+WBIN-1907,Merchandise exports to low- and middle-income economies in East Asia & Pacific (% of total merchandise exports),Trade
+WBIN-1908,Merchandise exports to low- and middle-income economies outside region (% of total merchandise exports),Trade
+WBIN-1909,Merchandise exports to high-income economies (% of total merchandise exports),Trade
+WBIN-1910,Merchandise exports (current US$),Trade
+WBIN-1911,Merchandise exports to economies in the Arab World (% of total merchandise exports),Trade
+WBIN-1912,Ores and metals exports (% of merchandise exports),Trade
+WBIN-1913,Manufactures exports (% of merchandise exports),Trade
+WBIN-1914,Insurance and financial services (% of commercial service exports),Trade
+WBIN-1915,ICT goods exports (% of total goods exports),Trade
+WBIN-1916,Fuel exports (% of merchandise exports),Trade
+WBIN-1917,Food exports (% of merchandise exports),Trade
+WBIN-1918,Agricultural raw materials exports (% of merchandise exports),Trade
+WBIN-1919,Export unit value index (2015 = 100),Trade
+WBIN-1920,Export volume index (2015 = 100),Trade
+WBIN-1921,Medium and high-tech exports (% manufactured exports),Trade
+WBIN-1922,Net barter terms of trade index (2015 = 100),Trade
+WBIN-1923,Travel services (% of commercial service imports),Trade
+WBIN-1924,Transport services (% of commercial service imports),Trade
+WBIN-1925,Commercial service imports (current US$),Trade
+WBIN-1926,"Computer, communications and other services (% of commercial service imports)",Trade
+WBIN-1927,Import value index (2015 = 100),Trade
+WBIN-1928,Merchandise imports from low- and middle-income economies within region (% of total merchandise imports),Trade
+WBIN-1929,Merchandise imports by the reporting economy (current US$),Trade
+WBIN-1930,"Merchandise imports by the reporting economy, residual (% of total merchandise imports)",Trade
+WBIN-1931,Merchandise imports from low- and middle-income economies in Sub-Saharan Africa (% of total merchandise imports),Trade
+WBIN-1932,Merchandise imports from low- and middle-income economies in South Asia (% of total merchandise imports),Trade
+WBIN-1933,Merchandise imports from low- and middle-income economies in Middle East & North Africa (% of total merchandise imports),Trade
+WBIN-1934,Merchandise imports from low- and middle-income economies in Latin America & the Caribbean (% of total merchandise imports),Trade
+WBIN-1935,Merchandise imports from low- and middle-income economies in Europe & Central Asia (% of total merchandise imports),Trade
+WBIN-1936,Merchandise imports from low- and middle-income economies in East Asia & Pacific (% of total merchandise imports),Trade
+WBIN-1937,Merchandise imports from low- and middle-income economies outside region (% of total merchandise imports),Trade
+WBIN-1938,Merchandise imports from high-income economies (% of total merchandise imports),Trade
+WBIN-1939,Merchandise imports (current US$),Trade
+WBIN-1940,Merchandise imports from economies in the Arab World (% of total merchandise imports),Trade
+WBIN-1941,Ores and metals imports (% of merchandise imports),Trade
+WBIN-1942,Manufactures imports (% of merchandise imports),Trade
+WBIN-1943,Insurance and financial services (% of commercial service imports),Trade
+WBIN-1944,ICT goods imports (% total goods imports),Trade
+WBIN-1945,Fuel imports (% of merchandise imports),Trade
+WBIN-1946,Food imports (% of merchandise imports),Trade
+WBIN-1947,Agricultural raw materials imports (% of merchandise imports),Trade
+WBIN-1948,Import unit value index (2015 = 100),Trade
+WBIN-1949,"Tariff rate, most favored nation, weighted mean, primary products (%)",Trade
+WBIN-1950,"Tariff rate, applied, weighted mean, primary products (%)",Trade
+WBIN-1951,"Share of tariff lines with specific rates, primary products (%)",Trade
+WBIN-1952,"Tariff rate, most favored nation, simple mean, primary products (%)",Trade
+WBIN-1953,"Tariff rate, applied, simple mean, primary products (%)",Trade
+WBIN-1954,"Share of tariff lines with international peaks, primary products (%)",Trade
+WBIN-1955,"Bound rate, simple mean, primary products (%)",Trade
+WBIN-1956,"Binding coverage, primary products (%)",Trade
+WBIN-1957,"Tariff rate, most favored nation, weighted mean, all products (%)",Trade
+WBIN-1958,"Tariff rate, applied, weighted mean, all products (%)",Trade
+WBIN-1959,"Share of tariff lines with specific rates, all products (%)",Trade
+WBIN-1960,"Tariff rate, most favored nation, simple mean, all products (%)",Trade
+WBIN-1961,"Tariff rate, applied, simple mean, all products (%)",Trade
+WBIN-1962,"Share of tariff lines with international peaks, all products (%)",Trade
+WBIN-1963,"Bound rate, simple mean, all products (%)",Trade
+WBIN-1964,"Binding coverage, all products (%)",Trade
+WBIN-1965,"Tariff rate, most favored nation, weighted mean, manufactured products (%)",Trade
+WBIN-1966,"Tariff rate, applied, weighted mean, manufactured products (%)",Trade
+WBIN-1967,"Share of tariff lines with specific rates, manufactured products (%)",Trade
+WBIN-1968,"Tariff rate, most favored nation, simple mean, manufactured products (%)",Trade
+WBIN-1969,"Tariff rate, applied, simple mean, manufactured products (%)",Trade
+WBIN-1970,"Share of tariff lines with international peaks, manufactured products (%)",Trade
+WBIN-1971,"Bound rate, simple mean, manufactured products (%)",Trade
+WBIN-1972,"Binding coverage, manufactured products (%)",Trade
+WBIN-1973,Import volume index (2015 = 100),Trade
+WBIN-1974,Merchandise trade (% of GDP),Trade
+WBIN-1975,"International tourism, expenditures (% of total imports)",Trade
+WBIN-1976,"International tourism, expenditures (current US$)",Trade
+WBIN-1977,"International tourism, expenditures for travel items (current US$)",Trade
+WBIN-1978,"International tourism, receipts for travel items (current US$)",Trade
+WBIN-1979,"International tourism, expenditures for passenger transport items (current US$)",Trade
+WBIN-1980,"International tourism, receipts for passenger transport items (current US$)",Trade
+WBIN-1981,"International tourism, receipts (% of total exports)",Trade
+WBIN-1982,"International tourism, receipts (current US$)",Trade
+WBIN-1983,"International tourism, number of departures",Trade
+WBIN-1984,"International tourism, number of arrivals",Trade
+WBIN-1985,Exports as a capacity to import (constant LCU),Trade
+WBIN-1986,Trade (% of GDP),Trade
+WBIN-1987,External balance on goods and services (% of GDP),Trade
+WBIN-1988,External balance on goods and services (current US$),Trade
+WBIN-1989,Imports of goods and services (% of GDP),Trade
+WBIN-1990,Imports of goods and services (annual % growth),Trade
+WBIN-1991,Imports of goods and services (constant 2015 US$),Trade
+WBIN-1992,Imports of goods and services (current US$),Trade
+WBIN-1993,Exports of goods and services (% of GDP),Trade
+WBIN-1994,Exports of goods and services (annual % growth),Trade
+WBIN-1995,Exports of goods and services (constant 2015 US$),Trade
+WBIN-1996,Exports of goods and services (current US$),Trade
+WBIN-1997,Arms exports (SIPRI trend indicator values),Trade
+WBIN-1998,Arms imports (SIPRI trend indicator values),Trade
+WBIN-1999,Logistics performance index: Ability to track and trace consignments (1=low to 5=high),Trade
+WBIN-2000,Logistics performance index: Frequency with which shipments reach consignee within scheduled or expected time (1=low to 5=high),Trade
+WBIN-2001,Logistics performance index: Overall (1=low to 5=high),Trade
+WBIN-2002,Logistics performance index: Competence and quality of logistics services (1=low to 5=high),Trade
+WBIN-2003,Logistics performance index: Ease of arranging competitively priced shipments (1=low to 5=high),Trade
+WBIN-2004,Logistics performance index: Quality of trade and transport-related infrastructure (1=low to 5=high),Trade
+WBIN-2005,Logistics performance index: Efficiency of customs clearance process (1=low to 5=high),Trade
+WBIN-2006,"Lead time to import, median case (days)",Trade
+WBIN-2007,"Lead time to export, median case (days)",Trade
+WBIN-2008,"Time to import, documentary compliance (hours)",Trade
+WBIN-2009,"Time to import, border compliance (hours)",Trade
+WBIN-2010,"Cost to import, documentary compliance (US$)",Trade
+WBIN-2011,"Cost to import, border compliance (US$)",Trade
+WBIN-2012,"Time to export, documentary compliance (hours)",Trade
+WBIN-2013,"Time to export, border compliance (hours)",Trade
+WBIN-2014,"Cost to export, documentary compliance (US$)",Trade
+WBIN-2015,"Cost to export, border compliance (US$)",Trade
+WBIN-2016,Average time to clear exports through customs (days),Trade
+WBIN-2017,Customs and other import duties (% of tax revenue),Trade
+WBIN-2018,Taxes on exports (% of tax revenue),Trade
+WBIN-2019,"Energy imports, net (% of energy use)",Trade
+WBIN-2020,"Travel services (% of service exports, BoP)",Trade
+WBIN-2021,"Transport services (% of service exports, BoP)",Trade
+WBIN-2022,"Exports of goods, services and primary income (BoP, current US$)",Trade
+WBIN-2023,"Service exports (BoP, current US$)",Trade
+WBIN-2024,"Goods exports (BoP, current US$)",Trade
+WBIN-2025,"Insurance and financial services (% of service exports, BoP)",Trade
+WBIN-2026,"Exports of goods and services (BoP, current US$)",Trade
+WBIN-2027,"Communications, computer, etc. (% of service exports, BoP)",Trade
+WBIN-2028,"ICT service exports (% of service exports, BoP)",Trade
+WBIN-2029,"ICT service exports (BoP, current US$)",Trade
+WBIN-2030,"Net trade in goods (BoP, current US$)",Trade
+WBIN-2031,"Net trade in goods and services (BoP, current US$)",Trade
+WBIN-2032,"Travel services (% of service imports, BoP)",Trade
+WBIN-2033,"Transport services (% of service imports, BoP)",Trade
+WBIN-2034,"Imports of goods, services and primary income (BoP, current US$)",Trade
+WBIN-2035,"Service imports (BoP, current US$)",Trade
+WBIN-2036,"Goods imports (BoP, current US$)",Trade
+WBIN-2037,"Insurance and financial services (% of service imports, BoP)",Trade
+WBIN-2038,"Imports of goods and services (BoP, current US$)",Trade
+WBIN-2039,"Communications, computer, etc. (% of service imports, BoP)",Trade
+WBIN-2040,Trade in services (% of GDP),Trade
+WBIN-2041,Urban population (% of total population),UrbanDevelopment
+WBIN-2042,Urban population,UrbanDevelopment
+WBIN-2043,Urban population growth (annual %),UrbanDevelopment
+WBIN-2044,"Mortality caused by road traffic injury (per 100,000 population)",UrbanDevelopment
+WBIN-2045,Pump price for gasoline (US$ per liter),UrbanDevelopment
+WBIN-2046,Pump price for diesel fuel (US$ per liter),UrbanDevelopment
+WBIN-2047,Population in urban agglomerations of more than 1 million (% of total population),UrbanDevelopment
+WBIN-2048,Population in urban agglomerations of more than 1 million,UrbanDevelopment
+WBIN-2049,Population in the largest city (% of urban population),UrbanDevelopment
+WBIN-2050,Population in largest city,UrbanDevelopment
+WBIN-2051,Population living in slums (% of urban population),UrbanDevelopment
+WBIN-2052,Urban population living in areas where elevation is below 5 meters (% of total population),UrbanDevelopment
+WBIN-2053,Population density (people per sq. km of land area),UrbanDevelopment
+WBIN-2054,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value (% of total)",UrbanDevelopment
+WBIN-2055,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",UrbanDevelopment
+WBIN-2056,"Access to electricity, urban (% of urban population)",UrbanDevelopment
+WBIN-2057,Urban land area (sq. km),UrbanDevelopment
+WBIN-2058,Urban land area where elevation is below 5 meters (% of total land area),UrbanDevelopment
+WBIN-2059,Urban land area where elevation is below 5 meters (sq. km),UrbanDevelopment
