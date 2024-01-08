@@ -121,8 +121,35 @@ def get_unique_indicator_list():
         return jsonify({'error': str(e)}), 500
     
 
-@wb_blueprint.route('/CountryIndicatorData', methods=['GET'])
-def CountryIndicatorData():
+@wb_blueprint.route('/ReportCodes', methods=['GET'])
+def get_unique_report_list():
+
+    return {
+    "WBRE-01": 'AgricultureAndRuralDevelopment',
+    "WBRE-02": 'AidEffectiveness',
+    "WBRE-03": 'ClimateChange',
+    "WBRE-04": 'EconomyAndGrowth',
+    "WBRE-05": 'Education',
+    "WBRE-06": 'EnergyAndMining',
+    "WBRE-07": 'Environment',
+    "WBRE-08": 'ExternalDebt',
+    "WBRE-09": 'FinancialSector',
+    "WBRE-10": 'Gender',
+    "WBRE-11": 'Health',
+    "WBRE-12": 'Infrastructure',
+    "WBRE-13": 'Poverty',
+    "WBRE-14": 'PrivateSector',
+    "WBRE-15": 'PublicSector',
+    "WBRE-16": 'ScienceAndTechnology',
+    "WBRE-17": 'SocialDevelopment',
+    "WBRE-18": 'SocialProtectionAndLabor',
+    "WBRE-19": 'Trade',
+    "WBRE-20": 'UrbanDevelopment',
+}
+ 
+
+@wb_blueprint.route('/IndicatorData', methods=['GET'])
+def IndicatorData():
     try:
         country = request.args.get('country')
         indicator = request.args.get('indicator')
@@ -145,7 +172,9 @@ def CountryIndicatorData():
         indicator_name = GetData.get_indicator_name_by_code(indicator)
 
         filtered_data = df[(df['Country Code'] == country) & (df['Indicator Name'] == indicator_name)]
-        result_data = filtered_data.to_dict(orient='records')
+        
+        # Convert filtered data to a dictionary directly
+        result_data = filtered_data.to_dict(orient='records')[0] if not filtered_data.empty else {}
 
         country_data = GetData.get_country_data_by_code(country)
 
@@ -161,6 +190,76 @@ def CountryIndicatorData():
         return jsonify({'message': 'CSV File Not Found'}), 404
     except Exception as e:
         return jsonify({'error': str(e)}), 500
+
+    
+ 
+@wb_blueprint.route('/ReportData', methods=['GET'])
+def ReportData():
+    try:
+        country = request.args.get('country')
+        report_code = request.args.get('report')
+
+        # Mapping report code to file name
+        report_file_mapping = {
+            "WBRE-01": 'AgricultureAndRuralDevelopment.csv',
+            "WBRE-02": 'AidEffectiveness.csv',
+            "WBRE-03": 'ClimateChange.csv',
+            "WBRE-04": 'EconomyAndGrowth.csv',
+            "WBRE-05": 'Education.csv',
+            "WBRE-06": 'EnergyAndMining.csv',
+            "WBRE-07": 'Environment.csv',
+            "WBRE-08": 'ExternalDebt.csv',
+            "WBRE-09": 'FinancialSector.csv',
+            "WBRE-10": 'Gender.csv',
+            "WBRE-11": 'Health.csv',
+            "WBRE-12": 'Infrastructure.csv',
+            "WBRE-13": 'Poverty.csv',
+            "WBRE-14": 'PrivateSector.csv',
+            "WBRE-15": 'PublicSector.csv',
+            "WBRE-16": 'ScienceAndTechnology.csv',
+            "WBRE-17": 'SocialDevelopment.csv',
+            "WBRE-18": 'SocialProtectionAndLabor.csv',
+            "WBRE-19": 'Trade.csv',
+            "WBRE-20": 'UrbanDevelopment.csv',
+        }
+
+        # Check if the report code is valid
+        if report_code not in report_file_mapping:
+            return jsonify({'message': 'Invalid report code'}), 400
+
+        # Retrieve file name based on the report code
+        file_name = report_file_mapping[report_code]
+
+        # Construct the file path
+        csv_file_path = os.path.join(current_directory, 'data', file_name)
+
+        # Read CSV file using pandas
+        df = pd.read_csv(csv_file_path)
+
+        # Filter data for the specified country
+        filtered_data = df[df['Country Code'] == country]
+
+        # Get country data
+        country_data = GetData.get_country_data_by_code(country)
+
+        # Convert filtered data to a dictionary
+        result_data = {file_name[:-4]: {}}
+
+        for _, row in filtered_data.iterrows():
+            indicator_name = row['Indicator Name']
+            del row['Country Code']
+            del row['Indicator Name']
+            result_data[file_name[:-4]][indicator_name] = row.to_dict()
+
+        return jsonify({'Country': country_data, 'Reports': result_data})
+
+    except FileNotFoundError:
+        return jsonify({'message': 'CSV File Not Found'}), 404
+    except Exception as e:
+        return jsonify({'error': str(e)}), 500
+
+
+
     
 
 @wb_blueprint.route('/CountryFullReport', methods=['POST'])
@@ -191,7 +290,13 @@ def country_full_report():
             report_data = GetData.retrieve_data_for_report(report_key, country_code, start_year, end_year)
             result_data[report_key] = report_data
 
+    country_data = GetData.get_country_data_by_code(country_code)
+
+    # Include country data in the response
+    result_data['Country'] = country_data
+
     return jsonify(result_data)
+
 
 
 @wb_blueprint.route('/MultipleIndicatorData', methods=['POST'])

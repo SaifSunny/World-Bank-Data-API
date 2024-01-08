@@ -23,7 +23,6 @@ class GetData:
         
 
     def get_country_data_by_code(country_code):
-
         region_data_csv_file_path = os.path.join(current_directory, 'data', 'region_data.csv')
 
         try:
@@ -33,15 +32,16 @@ class GetData:
             # Filter data based on the provided country code
             country_data = df[df['Country Code'] == country_code]
 
-            # Convert the filtered data to a dictionary
-            result_data = country_data.to_dict(orient='records')
+            # Convert the filtered data to a dictionary directly
+            result_data = country_data.to_dict(orient='records')[0] if not country_data.empty else {}
 
             return result_data
 
         except FileNotFoundError:
-            return [{'error': 'CSV File Not Found'}]
+            return {'error': 'CSV File Not Found'}
         except Exception as e:
-            return [{'error': str(e)}]
+            return {'error': str(e)}
+
         
         
     def retrieve_data_for_report(report_name, country_code, start_year, end_year):
